@@ -3,7 +3,6 @@
 Utilizing Twine for production, Github for Collaboration.
 
 ### Tasks 
-
 <html>
 <body>
 
@@ -13,11 +12,15 @@ Utilizing Twine for production, Github for Collaboration.
     <th>Completion %</th>
     <th>Gameworld Backstory/Experience</th> 
     <th>Completion %</th>
+    <th>Stretch Goals</th>
+    <th>Completion %</th>
   </tr>
   <tr>
     <td>Number of Characters</td>
     <td>0</td>
     <td>Character Backstories</td>
+    <td>0</td>
+    <td>Playable Murderer</td>
     <td>0</td>
   </tr>
   <tr>
@@ -25,17 +28,23 @@ Utilizing Twine for production, Github for Collaboration.
     <td>0</td>
     <td>World Setting</td>
     <td>0</td>
+    <td>Run Away option</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>Weapon Types</td>
     <td>0</td>
     <td>Room Themes</td>
     <td>0</td>
+    <td>Persistent Timer</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>How To Play/Experience</td>
     <td>0</td>
     <td>Multiple Murders</td>
+    <td>0</td>
+    <td>Player dies at certain Timer value</td>
     <td>0</td>
   </tr>
   <tr>
@@ -60,5 +69,3 @@ Utilizing Twine for production, Github for Collaboration.
 
 </body>
 </html>
-
-
