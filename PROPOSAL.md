@@ -3,8 +3,7 @@
 Utilizing Twine for production, Github for Collaboration.
 
 ### Tasks 
-Storyboarding -Number of Charcters -choose character option -types of weapons -setting -rooms -information/clues -backstories
-Gameworld Backstory & how to play/experience
+
 <html>
 <body>
 
@@ -12,33 +11,49 @@ Gameworld Backstory & how to play/experience
   <tr>
     <th>Storyboarding</th> 
     <th>Completion %</th>
+    <th>Gameworld Backstory/Experience</th> 
+    <th>Completion %</th>
   </tr>
   <tr>
     <td>Number of Characters</td>
+    <td>0</td>
+    <td>Character Backstories</td>
     <td>0</td>
   </tr>
   <tr>
     <td>Choosable Characters</td>
     <td>0</td>
+    <td>World Setting</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>Weapon Types</td>
     <td>0</td>
-  </tr>
-  <tr>
-    <td>Setting</td>
+    <td>Room Themes</td>
     <td>0</td>
   </tr>
   <tr>
-    <td>Room/Location Number </td>
+    <td>How To Play/Experience</td>
+    <td>0</td>
+    <td>Multiple Murders</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Room/Location Number</td>
+    <td>0</td>
+    <td>Gameplay Loop</td>
     <td>0</td>
   </tr>
   <tr>
     <td>Information/Clue types</td>
     <td>0</td>
+    <td>Additions to Gameplay Loop</td>
+    <td>0</td>
   </tr>
   <tr>
-    <td>Character Backstories</td>
+    <td>Accusation Style</td>
+    <td>0</td>
+    <td>Final Outcomes</td>
     <td>0</td>
   </tr>
 </table>
