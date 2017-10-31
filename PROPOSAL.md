@@ -84,7 +84,9 @@ While Teine may not be the most technically complicated technology available, it
 
 ## Division of Tasks/Work
 Chase - Twine Implementation, Github Management
+
 Maria - Story boarding, story creation
+
 Rachel - To be determined by Rachel, Original Concept
 
 ## Timeline
