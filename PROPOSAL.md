@@ -101,24 +101,24 @@ Rachel - To be determined by Rachel, Original Concept
     <th>Tuesday</th> 
     <th>Wednesday</th> 
     <th>Thursday</th> 
-    <th>Fridayday</th> 
+    <th>Friday</th> 
     <th>Saturday</th> 
   </tr>
   <tr>
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>S1, S2</t>
-    <td>G1, G2</td>
-    <td>S3</td>
+    <td>11/1/17 |S1, S2</t>
+    <td>11/2/17 |G1, G2</td>
+    <td>11/3/17 |S3</td>
   </tr>
   <tr>
-    <td>Choosable Characters</td>
-    <td>0</td>
-    <td>World Setting</td>
-    <td>0</td>
-    <td>Run Away option</td>
-    <td>0</td>
+    <td>11/4/17 |S,</td>
+    <td>11/5/17 |0</td>
+    <td>11/6/17 | PROPOSAL DUE
+    <td>11/7/17 |</td>
+    <td>11/8/17 |</td>
+    <td>11/9/17</td>
   </tr>
 </table>
 
