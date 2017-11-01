@@ -16,53 +16,53 @@ Utilizing Twine for production, Github for Collaboration.
     <th>Completion %</th>
   </tr>
   <tr>
-    <td>Number of Characters</td>
+    <td>S1: Number of Characters</td>
     <td>0</td>
-    <td>Character Backstories</td>
+    <td>G1: Character Backstories</td>
     <td>0</td>
-    <td>Playable Murderer</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>Choosable Characters</td>
-    <td>0</td>
-    <td>World Setting</td>
-    <td>0</td>
-    <td>Run Away option</td>
+    <td>B1: Playable Murderer</td>
     <td>0</td>
   </tr>
   <tr>
-    <td>Weapon Types</td>
+    <td>S2: Choosable Characters</td>
     <td>0</td>
-    <td>Room Themes</td>
+    <td>G2: World Setting</td>
     <td>0</td>
-    <td>Persistent Timer</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>How To Play/Experience</td>
-    <td>0</td>
-    <td>Multiple Murders</td>
-    <td>0</td>
-    <td>Player dies at certain Timer value</td>
+    <td>B2: Run Away option</td>
     <td>0</td>
   </tr>
   <tr>
-    <td>Room/Location Number</td>
+    <td>S3: Weapon Types</td>
     <td>0</td>
-    <td>Gameplay Loop</td>
+    <td>G3: Room Themes</td>
     <td>0</td>
-  </tr>
-  <tr>
-    <td>Information/Clue types</td>
-    <td>0</td>
-    <td>Additions to Gameplay Loop</td>
+    <td>B3: Persistent Timer</td>
     <td>0</td>
   </tr>
   <tr>
-    <td>Accusation Style</td>
+    <td>S4: How To Play/Experience</td>
     <td>0</td>
-    <td>Final Outcomes</td>
+    <td>G4: Multiple Murders</td>
+    <td>0</td>
+    <td>B4: Player dies at certain Timer value</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>S5: Room/Location Number</td>
+    <td>0</td>
+    <td>G5: Gameplay Loop</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>S6:Information/Clue types</td>
+    <td>0</td>
+    <td>G6: Additions to Gameplay Loop</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>S7: Accusation Style</td>
+    <td>0</td>
+    <td>G7: Final Outcomes</td>
     <td>0</td>
   </tr>
 </table>
