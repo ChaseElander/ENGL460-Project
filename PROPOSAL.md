@@ -111,9 +111,9 @@ Rachel - To be determined by Rachel, Original Concept
     <td>11/1/17 |S1, S2</t>
     <td>11/2/17 |G1, G2</td>
     <td>11/3/17 |S3</td>
+  <td>11/4/17 |S,</td>
   </tr>
   <tr>
-    <td>11/4/17 |S,</td>
     <td>11/5/17 |0</td>
     <td>11/6/17 | PROPOSAL DUE
     <td>11/7/17 |</td>
