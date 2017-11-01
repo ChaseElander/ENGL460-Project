@@ -107,9 +107,10 @@ Rachel - To be determined by Rachel, Original Concept
   <tr>
     <td> </td>
     <td> </td>
-    <td>Number of Characters</t>
-    <td>Character Backstories</td>
-  <td>Playable Murderer</td>
+    <td> </td>
+    <td>S1, S2</t>
+    <td>G1, G2</td>
+    <td>S3</td>
   </tr>
   <tr>
     <td>Choosable Characters</td>
