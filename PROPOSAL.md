@@ -90,6 +90,35 @@ Maria - Story boarding, story creation
 Rachel - To be determined by Rachel, Original Concept
 
 ## Timeline
+
+<html>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>Timeline</th> 
+  </tr>
+  <tr>
+    <td>Number of Characters</td>
+    <td>0</td>
+    <td>Character Backstories</td>
+    <td>0</td>
+    <td>Playable Murderer</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Choosable Characters</td>
+    <td>0</td>
+    <td>World Setting</td>
+    <td>0</td>
+    <td>Run Away option</td>
+    <td>0</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 Proposal Draft Planned 11/1/17
 Proposal Fleshed out 11/3/17
 Proposal Timeline (META) finalized 11/4/17
