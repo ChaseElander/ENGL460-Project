@@ -96,15 +96,20 @@ Rachel - To be determined by Rachel, Original Concept
 
 <table style="width:100%">
   <tr>
-    <th>Timeline</th> 
+    <th>Sunday</th>
+    <th>Monday</th> 
+    <th>Tuesday</th> 
+    <th>Wednesday</th> 
+    <th>Thursday</th> 
+    <th>Fridayday</th> 
+    <th>Saturday</th> 
   </tr>
   <tr>
-    <td>Number of Characters</td>
-    <td>0</td>
+    <td> </td>
+    <td> </td>
+    <td>Number of Characters</t>
     <td>Character Backstories</td>
-    <td>0</td>
-    <td>Playable Murderer</td>
-    <td>0</td>
+  <td>Playable Murderer</td>
   </tr>
   <tr>
     <td>Choosable Characters</td>
