@@ -3,32 +3,34 @@
 * S1: Number of Characters
   - [ ] completed
   
-  (Text of the task that is relevant)
+  As someone completes a task, they will check the box below the task name indicating that it is complete. If relevant, they can type their name in line with the checkbox. 
 
 * S2: Choosable Characters
   - [ ] completed
 
-  Words
+  (text)
   
 * S3: Weapon Types
   - [ ] completed
   
-  Words
+  (text)
   
 * S4: How to play/experience
   - [ ] completed
   
-  (blah)
+  (text)
   
 * S5: Room/Location Number
   - [ ] completed
   
-  Words
+  (text)
   
 * S6: Clue/information types
   - [ ] completed
   
-  Words
+  (text)
   
 * S7: Accusation Style
   - [ ] completed
+
+  (text)
