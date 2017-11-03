@@ -1,21 +1,21 @@
 # Murder Mystery Interactive Fiction
      Our group is proposing a Twine application that will argue that entertainment for entertainment's sake has value
-     
-## Overview
 
+## Overview
+We propose to create a murder mystery game based on the choose your own adventure (CYOA) concept. The creation of this game should take approximately 4-5 weeks. We will use Twine to create our game. The purpose of this game is to create an artifact for purely entertainment purposes. We argue that entertainment is important within our society. In an era where everyone and everything wants to make an argument and is trying to persuade you, we want to remind people that we can have artifacts that are not trying to make an argument. There have been many murder mystery games before, especially board games such as Clue. However we want to host the game online because today everything is moving towards the digital. Additionally, we want to incorporate the CYOA aspect into the game so that we can give the players options and make it fun for them. Unlike other CYOA games we will have a complex story in which alternatives endings are possible. This is important because it emphasizes the fact that different actions have different consequences. In this way, it mirrors real life.
 
 ## Technologies Utilized
 Utilizing Twine for production, Github for Collaboration.
 
-## Tasks 
+## Tasks
 <html>
 <body>
 
 <table style="width:100%">
   <tr>
-    <th>Storyboarding</th> 
+    <th>Storyboarding</th>
     <th>Completion %</th>
-    <th>Gameworld Backstory/Experience</th> 
+    <th>Gameworld Backstory/Experience</th>
     <th>Completion %</th>
     <th>Stretch Goals</th>
     <th>Completion %</th>
@@ -102,12 +102,12 @@ Rachel - To be determined by Rachel, Original Concept
 <table style="width:100%">
   <tr>
     <th>Sunday</th>
-    <th>Monday</th> 
-    <th>Tuesday</th> 
-    <th>Wednesday</th> 
-    <th>Thursday</th> 
-    <th>Friday</th> 
-    <th>Saturday</th> 
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+    <th>Saturday</th>
   </tr>
   <tr>
     <td> </td>
@@ -187,4 +187,3 @@ TODO
 TODO
 TODO
 ### Final Artifact DUE 12/13/17
-
