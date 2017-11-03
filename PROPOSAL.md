@@ -92,7 +92,7 @@ Chase - Twine Implementation, Github Management
 
 Maria - Story boarding, story creation
 
-Rachel - To be determined by Rachel, Original Concept
+Rachel - Story boarding/creation, Original Concept
 
 ## Timeline
 
