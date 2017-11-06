@@ -95,9 +95,15 @@ While Teine may not be the most technically complicated technology available, it
 ## Division of Tasks/Work
 Chase - Twine Implementation, Github Management
 
+* Chase is in charge of continually integrating the story changes onto Twine. Chase has also created a Github repository and has added Rachel and Maria as contributors. Chase will manage the Github and make sure nothing breaks.
+
 Maria - Story boarding, story creation
 
+* Maria will collaborate with Rachel on story creation and story boarding. She will be in charge of updating the timeline and send reminders and deadlines to the rest of the team.
+
 Rachel - Story boarding/creation, Original Concept
+
+* Rachel came up with the original concept. She will work with Maria on story creation and story boarding.
 
 ## Timeline
 
