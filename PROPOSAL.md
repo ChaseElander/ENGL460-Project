@@ -5,10 +5,10 @@
 We propose to create a murder mystery game based on the choose your own adventure (CYOA) concept. The creation of this game should take approximately 4-5 weeks. We will use Twine to create our game. The purpose of this game is to create an artifact for purely entertainment purposes. We argue that entertainment is important within our society. In an era where everyone and everything wants to make an argument and is trying to persuade you, we want to remind people that we can have artifacts that are not trying to make an argument. There have been many murder mystery games before, especially board games such as Clue. However we want to host the game online because today everything is moving towards the digital. Additionally, we want to incorporate the CYOA aspect into the game so that we can give the players options and make it fun for them. Unlike other CYOA games we will have a complex story in which alternatives endings are possible. This is important because it emphasizes the fact that different actions have different consequences. In this way, it mirrors real life.
 
 ## Plan
-We are creating an interactive, CYOA, murder mystery game on Twine. We will be using Github as a collaboration platform. Chase has created a repository for our project and added Rachel and Maria as contributors. The repository will host our project proposal and will be used as a basis for project management. Within the repository, we will also keep track of our progress on individual tasks. For easier communication between the team members, we have decided to create a group conversation on Slack. The game itself will be created on Twine. Within Github we will created a folder dedicated to our Twine story. In the folder we will have one document per story box in which all of us will collaborate to create. This will be the bulk of content creation. We will then have one person extrapolating the information from the documents and entering it onto the actual Twine website. This will be a piece-by-piece process. When we finish a substantive amount of work, a designated team member will implement the changes on Twine. We have decided this will be the best approach, as opposed to creating the whole story and then waiting until the end to implement it into Twine, because in this manner we will slowly learn how to use Twine and if any errors arise we can fix them on the go.
+We are creating an interactive, CYOA, murder mystery game on Twine. We will be using Github as a collaboration platform. Chase has created a repository for our project and added Rachel and Maria as contributors. The repository will host our project proposal and will be used as a basis for project management. Within the repository, we will also keep track of our progress on individual tasks. For easier communication between the team members, we have decided to create a group conversation on Slack. The game itself will be created on Twine. Within Github we will created a folder dedicated to our Twine story. In the folder we will have one document per story box which all of us will collaborate to create. This will be the bulk of content creation. We will then have one person extrapolating the information from the documents and entering it onto the actual Twine website. This will be a piece-by-piece process. When we finish a substantive amount of work, a designated team member will implement the changes on Twine. We have decided this will be the best approach, as opposed to creating the whole story and then waiting until the end to implement it into Twine, because in this manner we will slowly learn how to use Twine and if any errors arise we can fix them on the go. We will g
 
 ## Technologies Utilized
-Utilizing Twine for production, Github for Collaboration.
+We are utilizing Twine for production and Github for collaboration.We have also created a Slack group conversation to facilitate communication.
 
 ## Tasks
 <html>
@@ -80,6 +80,8 @@ Utilizing Twine for production, Github for Collaboration.
 
 ### Story Notes
 You can be the next victim
+
+* The reason the player is looking for the murderer is because the player is the next victim. So the player has to figure out who the murderer is before the murderer kills the player.
 
 ## Argument
 Challenge of play creates entertainment, too easy/too hard makes less entertainment, & entertainment has value
