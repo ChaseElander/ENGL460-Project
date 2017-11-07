@@ -194,7 +194,6 @@ Mockup Notecard Map Planned 11/10/17
 Mockup Asset Chart Planned 11/10/17
 Mockup Finalized by 11/16/17
 ### Mockup DUE 11/17/17
-TODO
-TODO
-TODO
+Continue Twine implementation 11/20/17
+Determine if Stretch Goals are realistic 11/22/17
 ### Final Artifact DUE 12/13/17
