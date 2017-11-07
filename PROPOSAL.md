@@ -144,7 +144,7 @@ Rachel - Story boarding/creation, Original Concept
   <td>11/14/17</td>
   <td>11/15/17</td>
   <td>11/16/17</td>
-  <td>11/17/17</td>
+  <td>11/17/17 | Mockup Due</td>
   <td>11/18/17</td>
   </tr>
   <tr>
@@ -178,7 +178,7 @@ Rachel - Story boarding/creation, Original Concept
   <td>12/10/17</td>
   <td>12/11/17</td>
   <td>12/12/17</td>
-  <td>12/13/17</td>
+  <td>12/13/17 | Final Artifact Due</td>
    </tr>
 </table>
 
