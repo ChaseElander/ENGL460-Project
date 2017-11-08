@@ -4,7 +4,7 @@
 
 ''Welcome to Madhouse Manor''
 You have been invited here, to partake of dinner, entertainment and many festivities that your distinguished host 
-has provided for you, we hope you have fun and are preparedforeverything tonight has to [[offer->activities]].
+has provided for you, we hope you have fun and are prepared for everything tonight has to [[offer->activities]].
 
 ## activities
 
