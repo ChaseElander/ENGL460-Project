@@ -133,17 +133,17 @@ Rachel - Story boarding/creation, Original Concept
     <td>11/5/17 | N/A</td>
     <td>11/6/17 | PROPOSAL DUE
     <td>11/7/17 | Story Locked in</td>
-    <td>11/8/17 | Division of Work</td>
-    <td>11/9/17 |</td>
-    <td>11/10/17 |</td>
+    <td>11/8/17 | Decided Story Mechanics</td>
+    <td>11/9/17 | Buy notecards for Mockup</td>
+    <td>11/10/17 | N/A</td>
     <td>11/11/17 |</td>
   </tr>
   <tr>
   <td>11/12/17 | Notecard Mockup</td>
-  <td>11/13/17 | Tentative Twine Beginning</td>
-  <td>11/14/17 | </td>
-  <td>11/15/17 |</td>
-  <td>11/16/17 |</td>
+  <td>11/13/17 | Continue Twine Beginning</td>
+  <td>11/14/17 | incorporate Argument into Twine</td>
+  <td>11/15/17 | More story input</td>
+  <td>11/16/17 | </td>
   <td>11/17/17 | Mockup Due</td>
   <td>11/18/17 |</td>
   </tr>
