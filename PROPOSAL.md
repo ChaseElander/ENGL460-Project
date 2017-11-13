@@ -6,28 +6,40 @@ Our group is proposing a Twine application that will argue that entertainment fo
   We propose to create a murder mystery game based on the choose your own adventure (CYOA) concept. The creation of this game should take approximately 4-5 weeks. We will use Twine to create our game. The purpose of this game is to create an artifact for purely entertainment purposes. We argue that entertainment is important within our society. In an era where everyone and everything wants to make an argument and is trying to persuade you, we want to remind people that we can have artifacts that are not trying to make an argument. There have been many murder mystery games before, especially board games such as Clue. However we want to host the game online because today everything is moving towards the digital. Additionally, we want to incorporate the CYOA aspect into the game so that we can give the players options and make it fun for them. Unlike other CYOA games we will have a complex story in which alternatives endings are possible. This is important because it emphasizes the fact that different actions have different consequences. In this way, it mirrors real life.
 
 ## Plan
-  We are creating an interactive, CYOA, murder mystery game on Twine. We will be using Github as a collaboration platform. Chase has created a repository for our project and added Rachel and Maria as contributors. The repository will host our project proposal and will be used as a basis for project management. Within the repository, we will also keep track of our progress on individual tasks. For easier communication between the team members, we have decided to create a group conversation on Slack.
+  We are creating an interactive, CYOA, murder mystery game on Twine. We will be using Github as a collaboration platform. Chase has created a repository for our project and added Rachel and Maria as contributors. The repository will host our project proposal and will be used as a basis for project management. Within the repository, we will also keep track of our progress on individual tasks. For easier communication between the team members, we have decided to create a group conversation on Slack. 
 ### Orgnaization  
   The game itself will be created on Twine. Within Github we will created a folder dedicated to our Twine story. In the folder we will have one document per story box which all of us will collaborate to create. This will be the bulk of content creation. We will then have one person extrapolating the information from the documents and entering it onto the actual Twine website. This will be a piece-by-piece process. When we finish a substantive amount of work, a designated team member will implement the changes on Twine. We have decided this will be the best approach, as opposed to creating the whole story and then waiting until the end to implement it into Twine, because in this manner we will slowly learn how to use Twine and if any errors arise we can fix them on the go. We will gather our images from an open source website.
-
-  **I really like this plan; I think it's a very smart approach to managing collaboration on Twine. I wonder, though, how you will organize and track the overall structure of the game?**
+  For organizing the overall branching structure of the game, we will utilize notecard mockups that relate to the detailed story scenes. This allows for refactoring of events and organizing the story around certain significant pivot points, where decisions will affect who the murderer is in your playthrough. This will be achieved by branching the story into 2 nearly mirror timelines where there are only a few differences as to who the murderer is.
+  
+  **I really like this plan; I think it's a very smart approach to managing collaboration on Twine. I wonder, though, how you will organize and track the overall structure of the game?** 
+  
 ### Stages of Production
-   At the moment, we have divided our main tasks into 3 categories.
-
-   The first task is storyboarding; we will choose the amount of characters, create different murder weapons, choose the number of rooms/locations, establish the clue types, and create the accusation style.
-
-   Our second task is the game world backstory/experience. We will create backstories for the characters, establish settings and themes, and determine whether we will have a looping game. Game mechanics will work in the form of details about specific individuals in the house. There is no clue tracking system planned to be built into the game, the player is meant to read through the story and pay attention to the details about the guests. If the player doesn't pay attention, worse endings will occur.**What does that mean?**.
-
-   Our third task will only be completed if we have time. These are our stretch goals. We want to create an option where the player is the murderer. We also want to integrate a run away option where the player can just choose to run away instead of investigate the murder; this is meant to be humorous. We were also considering implementing a timer into the game; this would tie in with the storyline of the player being the next murder victim. Along the same lines, we wanted to establish a certain time value at which the player dies.  We have a mockup notecard map planned for November 10th. Therefore, we will have a preliminary completion of the storyboarding tasks. On November 10th, after fleshing  our story on notecards, we will also create an asset chart which will be posted on the Github. Our mockup will be finalized by November 16th. The project will be completed by December 12th.
+   At the moment, we have divided our main tasks into 3 categories. 
+   
+   The first task is storyboarding; we will choose the amount of characters, create different murder weapons, choose the number of rooms/locations, establish the clue types, and create the accusation style. 
+   
+   Our second task is the game world backstory/experience. We will create backstories for the characters, establish settings and themes, and determine whether we will have a looping game. Game mechanics will work in the form of details about specific individuals in the house. There is no clue tracking system planned to be built into the game, the player is meant to read through the story and pay attention to the details about the guests. If the player doesn't pay attention, worse endings will occur. A worse ending is defined as more individuals being killed, or even the player themselves being killed and the story ending unresolved. **What does that mean?**. 
+   
+   Our third task will only be completed if we have time. These are our stretch goals. 
+   
+   We want to create an option where the player is the murderer. 
+  
+  We also want to integrate a run away option where the player can just choose to run away instead of investigate the murder; this is meant to be humorous. 
+   
+   We were also considering implementing a timer into the game; this would tie in with the storyline of the player being the next murder victim. Along the same lines, we wanted to establish a certain time value at which the player dies.  
+   
+   We have a mockup notecard map planned for November 10th. Therefore, we will have a preliminary completion of the storyboarding tasks. On November 10th, after fleshing  our story on notecards, we will also create an asset chart which will be posted on the Github.
+   
+   Our mockup will be finalized by November 16th. The project will be completed by December 12th.
 
 **Do you anticipate the murderer being randomized? Or is the same person always the murderer? How do you plan to randomize this? Will the story branch based on the murderer or will it always be roughly the same investigation each time?**
 
-   The murderer will be determined by the ordering of key events the player chooses. At certain points of the story, there will be "hidden" branches in story if you ask Question 1, 2, or 3. The story will "progress" similarly for each choice but the final result of the murderer will be different. The point is that multiple people fit the role of murderer, and you're never really sure. 
+   Te murderer will be determined by the ordering of key events the player chooses. At certain points of the story, there will be "hidden" branches in story if you ask Question 1, 2, or 3. The story will "progress" similarly for each choice but the final result of the murderer will be different. The point is that multiple people fit the role of murderer depending on which ordering or investigation tactics you choose, and you're never really sure. 
 
 **Also, as a note, this was really hard to read because it was a single block of text. Making use of some more bullets and subheadings might have helped work this out.**
 
 ## Technologies Utilized
-We are utilizing Twine for production and Github for collaboration. We have also created a Slack group conversation to facilitate communication. We have cloned the repository onto the desktop version of Github and will be using text editors of our choice.
+We are utilizing Twine for production and Github for collaboration. We have also created a Slack group conversation to facilitate communication. We have cloned the repository onto the desktop version of Github and will be using text editors of our choice. 
 
 ## Tasks
 <html>
@@ -100,7 +112,11 @@ We are utilizing Twine for production and Github for collaboration. We have also
 ### Story Notes
 You can be the next victim
 
-* The reason the player is looking for the murderer is because the player is the next victim. So the player has to figure out who the murderer is before the murderer kills the player.
+* The reason the player is looking for the murderer is because the player may be the next victim. So the player has to figure out who the murderer is before the murderer kills again, or kills the player.
+
+* A handful of hardcoded guests attend the party, their descriptions and names remain the same throughout playthroughs.
+* Setting is a large mansion/house party, with different rooms such as foyer, bathroom, coat room, living, dining, kitchen, study, main stair, hallways, and bedrooms. 
+
 
 **Are there going to be randomly generated suspects? How many? How does the mechanic of investigation work? What will the setting be?**
 
@@ -161,44 +177,44 @@ Rachel - Story boarding/creation, Original Concept
   </tr>
   <tr>
   <td>11/12/17 | Notecard Mockup</td>
-  <td>11/13/17 | Continue Twine Beginning</td>
-  <td>11/14/17 | incorporate Argument into Twine</td>
-  <td>11/15/17 | More story input</td>
+  <td>11/13/17 | Continue Twine Beginning, Notecards</td>
+  <td>11/14/17 | Incorporate Branching</td>
+  <td>11/15/17 | Finish Notecard Creation</td>
   <td>11/16/17 | </td>
-  <td>11/17/17 | Mockup Due</td>
-  <td>11/18/17 |</td>
+  <td>11/17/17 | Mockup Due, Show off Branching System</td>
+  <td>11/18/17 | </td>
   </tr>
   <tr>
-  <td>11/19/17 |</td>
-  <td>11/20/17 |</td>
-  <td>11/21/17 |</td>
-  <td>11/22/17 |</td>
-  <td>11/23/17 |</td>
-  <td>11/24/17 |</td>
-  <td>11/25/17 |</td>  
+  <td>11/19/17 | </td>
+  <td>11/20/17 | </td>
+  <td>11/21/17 | </td>
+  <td>11/22/17 | </td>
+  <td>11/23/17 | </td>
+  <td>11/24/17 | </td>
+  <td>11/25/17 | </td>  
   </tr>
   <tr>
-  <td>11/26/17 |</td>
-  <td>11/27/17 |</td>
-  <td>11/28/17 |</td>
-  <td>11/29/17 |</td>
-  <td>11/30/17 |</td>
-  <td>12/1/17 |</td>
-  <td>12/2/17 |</td>  
+  <td>11/26/17 | </td>
+  <td>11/27/17 | </td>
+  <td>11/28/17 | </td>
+  <td>11/29/17 | </td>
+  <td>11/30/17 | </td>
+  <td>12/1/17 | </td>
+  <td>12/2/17 | </td>  
   </tr>
   <tr>
-  <td>12/3/17 |</td>
-  <td>12/4/17 |</td>
-  <td>12/5/17 |</td>
-  <td>12/6/17 |</td>
-  <td>12/7/17 |</td>
-  <td>12/8/17 |</td>
-  <td>12/9/17 |</td>  
+  <td>12/3/17 | </td>
+  <td>12/4/17 | </td>
+  <td>12/5/17 | </td>
+  <td>12/6/17 | </td>
+  <td>12/7/17 | </td>
+  <td>12/8/17 | </td>
+  <td>12/9/17 | </td>  
   </tr>
   <tr>
-  <td>12/10/17 |</td>
-  <td>12/11/17 |</td>
-  <td>12/12/17 |</td>
+  <td>12/10/17 | </td>
+  <td>12/11/17 | </td>
+  <td>12/12/17 | </td>
   <td>12/13/17 | Final Artifact Due</td>
    </tr>
 </table>
