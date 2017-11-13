@@ -13,9 +13,9 @@
     <th>Characteristic 4</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Man in Office</td>
+    <td>not sure</td>
+    <td>Made vague reference to killing his employee</td>
     <td></td>
     <td></td>
     <td></td>
