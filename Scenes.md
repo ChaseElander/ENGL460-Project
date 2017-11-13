@@ -3,15 +3,15 @@
 ## Intro to the house
 
 ''Welcome to Madhouse Manor''
-You have been invited here, to partake of dinner, entertainment and many festivities that your distinguished host 
+You have been invited here, to partake of dinner, entertainment and many festivities that your distinguished host
 has provided for you, we hope you have fun and are prepared for everything tonight has to [[offer->activities]].
 
 ## activities
 
-Upon entering the house, you and your plus one see 3 rooms to possibly enter first. There is a [[coat room->coat room]] to 
-the right  where many people are going in and out of, there is a [[small office->small office]] where there seems to be a 
-few people talking in hushed tones with each other. Finally, Straight ahead there is the [[main room->main room]] where the 
-majority of people seem to be congregating. You really want to shed your coat but you're also curious about what is in the 
+Upon entering the house, you and your plus one see 3 rooms to possibly enter first. There is a [[coat room->coat room]] to
+the right  where many people are going in and out of, there is a [[small office->small office]] where there seems to be a
+few people talking in hushed tones with each other. Finally, Straight ahead there is the [[main room->main room]] where the
+majority of people seem to be congregating. You really want to shed your coat but you're also curious about what is in the
 office. where do you go?
 
 ## Small Office
@@ -20,7 +20,7 @@ You enter the office behind the 2 men who are sitting facing the fire place havi
 
 Man 1 (*should we identify them some other way or wait until later and be like "Aha! the man in the office is this guy!!"*): I don't know Roger, the guy just seems so unstable. there's no way he will do well in the company.
 
-Man2: But his family is too important to the state, if we get rid of him, our stocks could plummet. His family practically controls the market. 
+Man2: But his family is too important to the state, if we get rid of him, our stocks could plummet. His family practically controls the market.
 
 Man 1: Yeah, but if we find just cause, then who are they to do anything. They know what kind of man he is, and he certainly isn't worth those stupid Louis Vuitton shoes he wears.
 
@@ -33,8 +33,8 @@ You realize you've paused while looking at a book you've picked up from off the 
 ## Coat Room
 
 You enter the room and are impressed by the quality of coats that are hanging about. Real Mink fur, fox, rabbit and others.
-Coats that would cost thousands of dollars. A particular coat catches our eye, a pitch black slightly wavy fur, that is somehow 
-so shiny that it doesn't even seem real. On your way out at the end of the party, ou think you will try to remember to see who 
+Coats that would cost thousands of dollars. A particular coat catches our eye, a pitch black slightly wavy fur, that is somehow
+so shiny that it doesn't even seem real. On your way out at the end of the party, you think you will try to remember to see who 
 has that coat because you want to tell them how beautiful it is.
 
 The [[Main room->main room]] noise catches your ear and you float out of the coat room to join the party.
@@ -42,4 +42,4 @@ The [[Main room->main room]] noise catches your ear and you float out of the coa
 ## Bathroom
 
 this would then only lead you to the [[main room]] but the people that chose this path might learn some special clue from the bathroom
-that could help them with identifyin the killer
+that could help them with identifying the killer
