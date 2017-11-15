@@ -58,15 +58,27 @@ that could help them with identifying the killer
 
 ## Speak To Your Date
 
+Description of your date's characteristics
+
 ## Speak to Seductress
+
+Description of Seductress's characteristics
 
 ## Speak to Host
 
+Description of Host's characteristics
+
 ## Hors d'eurves
+
+Your date leads you towards a waiter with food
 
 ## Kitchen
 
+you smell amazing things from the kitchen 
+
 ## Dining Room
+
+servants are busy in the dining room, hustle & bustle
 
 ## Listen to Live Music
 
