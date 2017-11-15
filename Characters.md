@@ -11,6 +11,7 @@
     <th>Characteristic 2</th>
     <th>Characteristic 3</th>
     <th>Characteristic 4</th>
+    <th>Murderer Posibility?</th>
   </tr>
   <tr>
     <td> Roger (Man in Office)</td>
@@ -19,6 +20,7 @@
     <td></td>
     <td></td>
     <td></td>
+    <td>Path A</td>
   </tr>
   <tr>
     <td></td>
@@ -35,6 +37,7 @@
     <td></td>
     <td></td>
     <td></td>
+    <td>Path B</td>
   </tr>
   <tr>
     <td></td>
@@ -43,6 +46,7 @@
     <td></td>
     <td></td>
     <td></td>
+    <td>Path C</td>
   </tr>
   <tr>
     <td></td>
@@ -51,10 +55,12 @@
     <td></td>
     <td></td>
     <td></td>
+    <td>Path D</td>
   </tr>
   <tr>
     <td></td>
     <td> The Alpha Male </td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -67,10 +73,12 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td> The Seductress </td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -83,10 +91,12 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td> The Recluse </td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
