@@ -30,6 +30,13 @@ Man 1: Oh come on now, while that would be a blessing to us, that's ridiculous. 
 
 You realize you've paused while looking at a book you've picked up from off the shelf and are staring at the back of the 2 men's heads. You quietly replace the book and dash out of the room without a sound. Do you go to the [[main room]] to tell your date or to the [[bathroom->bathroom]] to privately collect your thoughts and maybe even relieve your bladder?
 
+## Small Office (not detailed)
+
+"Just fire the man!" you overhear as you enter the room, finding two men ending what seems like a jolly discussion. 
+
+You stare at the back of the 2 men's heads as they laugh together before deciding to step out into the [[Main room->main room]] to join the rest of the party. 
+
+
 ## Coat Room
 
 You enter the room and are impressed by the quality of coats that are hanging about. Real Mink fur, fox, rabbit and others.
