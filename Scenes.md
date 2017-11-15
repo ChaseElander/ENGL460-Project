@@ -47,7 +47,7 @@ that could help them with identifying the killer
 ## Main Room
 
 
-# _________________________ Prolouge Ends ____________________________________
+# _________________________ Prolouge Ends 
 
 ## Dining Room
 
