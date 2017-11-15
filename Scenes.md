@@ -49,9 +49,21 @@ that could help them with identifying the killer
 
 # _________________________ Prolouge Ends 
 
+## Speak To Your Date
+
+## Speak to Seductress
+
+## Speak to Host
+
+## Hors d'eurves
+
+## Kitchen
+
 ## Dining Room
 
-## Toast
+## Listen to Live Music
+
+## Call to Dinner
 
 ## Dinner
 
