@@ -17,7 +17,7 @@
     <td> Roger (Man in Office)</td>
     <td>not sure</td>
     <td>Made vague reference to killing his employee</td>
-    <td></td>
+    <td>Scotch</td>
     <td></td>
     <td></td>
     <td>Path A</td>
@@ -43,7 +43,7 @@
     <td></td>
     <td> Rich Host</td>
     <td></td>
-    <td></td>
+    <td>Whiskey</td>
     <td></td>
     <td></td>
     <td>Path C</td>
@@ -52,7 +52,7 @@
     <td></td>
     <td> The Ice Queen </td>
     <td></td>
-    <td></td>
+    <td>Champagne</td>
     <td></td>
     <td></td>
     <td>Path D</td>
@@ -61,7 +61,7 @@
     <td></td>
     <td> The Alpha Male </td>
     <td></td>
-    <td></td>
+    <td>Light Beer</td>
     <td></td>
     <td></td>
     <td></td>
@@ -70,7 +70,7 @@
     <td></td>
     <td> The Intellectual </td>
     <td></td>
-    <td></td>
+    <td>Seltzer</td>
     <td></td>
     <td></td>
     <td></td>
@@ -79,16 +79,16 @@
     <td></td>
     <td> The Seductress </td>
     <td></td>
-    <td></td>
+    <td>Red Wine</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Host's son</td>
     <td> The Ingénue </td>
     <td></td>
-    <td></td>
+    <td>shirly temple</td>
     <td></td>
     <td></td>
     <td></td>
@@ -97,7 +97,7 @@
     <td></td>
     <td> The Recluse </td>
     <td></td>
-    <td></td>
+    <td>Tequila</td>
     <td></td>
     <td></td>
     <td></td>
