@@ -13,7 +13,7 @@
     <th>Characteristic 4</th>
   </tr>
   <tr>
-    <td>Man in Office</td>
+    <td> Roger (Man in Office)</td>
     <td>not sure</td>
     <td>Made vague reference to killing his employee</td>
     <td></td>
