@@ -22,15 +22,7 @@
   </tr>
   <tr>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
+    <td> The Ice Queen </td>
     <td></td>
     <td></td>
     <td></td>
@@ -38,15 +30,7 @@
   </tr>
   <tr>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
+    <td> The Alpha Male </td>
     <td></td>
     <td></td>
     <td></td>
@@ -54,7 +38,7 @@
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td> The Intellectual </td>
     <td></td>
     <td></td>
     <td></td>
@@ -62,7 +46,23 @@
   </tr>
   <tr>
     <td></td>
+    <td> The Seductress </td>
     <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> The Ingénue </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> The Recluse </td>
     <td></td>
     <td></td>
     <td></td>
