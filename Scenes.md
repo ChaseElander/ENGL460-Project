@@ -50,6 +50,7 @@ The [[Main room->main room]] noise catches your ear and you float out of the coa
 
 this would then only lead you to the [[main room]] but the people that chose this path might learn some special clue from the bathroom
 that could help them with identifying the killer
+You start trying to find some justification for what you just heard, but just find yourself going in a downwards spiral. You shake your head, and try not to read too much into it anymore. Surely they were joking, right? You notice that you have started sweating and your hands feel clammy. You turn on the sink and wash your face. Maybe some cool water will help you recollect your thoughts. As you close the water, you notice a crimson stain is being washed away. You proceed to wash your hands. The soap has such a pleasant vanilla smell and instantly you feel more at ease. Time to go back to the party. [[main room]]
 
 ## Main Room
 
