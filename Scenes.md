@@ -80,10 +80,17 @@ you smell amazing things from the kitchen
 ## Dining Room
 
 servants are busy in the dining room, hustle & bustle
+option to help one
+
+## Help servant
+
+people look down on you, servant may tell you something about the host
 
 ## Listen to Live Music
 
-## Call to Dinner
+## Call to Dinner (from other room)
+
+## Call to Dinner (from in dining room)
 
 ## Dinner
 
