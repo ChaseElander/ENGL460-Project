@@ -44,6 +44,11 @@ The [[Main room->main room]] noise catches your ear and you float out of the coa
 this would then only lead you to the [[main room]] but the people that chose this path might learn some special clue from the bathroom
 that could help them with identifying the killer
 
+## Main Room
+
+
+# _________________________ Prolouge Ends ____________________________________
+
 ## Dining Room
 
 ## Toast
