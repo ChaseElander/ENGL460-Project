@@ -22,6 +22,30 @@
   </tr>
   <tr>
     <td></td>
+    <td> Player </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> Your Date </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> Rich Host</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
     <td> The Ice Queen </td>
     <td></td>
     <td></td>
