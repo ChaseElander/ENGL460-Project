@@ -20,7 +20,7 @@
     <td>Scotch</td>
     <td></td>
     <td></td>
-    <td>Path A</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -34,10 +34,10 @@
     <td></td>
     <td> Your Date </td>
     <td></td>
+    <td>Same drink as murderer</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td>Path B</td>
+    <td>Path A</td>
   </tr>
   <tr>
     <td></td>
@@ -46,7 +46,7 @@
     <td>Whiskey</td>
     <td></td>
     <td></td>
-    <td>Path C</td>
+    <td>Path B</td>
   </tr>
   <tr>
     <td></td>
@@ -55,7 +55,7 @@
     <td>Champagne</td>
     <td></td>
     <td></td>
-    <td>Path D</td>
+    <td>Path C</td>
   </tr>
   <tr>
     <td></td>
@@ -82,7 +82,7 @@
     <td>Red Wine</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>Path D</td>
   </tr>
   <tr>
     <td>Host's son</td>
@@ -91,7 +91,7 @@
     <td>shirly temple</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>Path E</td>
   </tr>
   <tr>
     <td></td>
