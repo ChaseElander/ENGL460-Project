@@ -44,7 +44,7 @@
     <td> Rich Host</td>
     <td></td>
     <td>Whiskey</td>
-    <td></td>
+    <td>Rolex Watch</td>
     <td></td>
     <td>Path B</td>
   </tr>
