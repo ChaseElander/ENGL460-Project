@@ -80,7 +80,7 @@
     <td> The Seductress </td>
     <td></td>
     <td>Red Wine</td>
-    <td></td>
+    <td>Mink Fur Coat</td>
     <td></td>
     <td>Path D</td>
   </tr>
