@@ -89,7 +89,7 @@
     <td> The Ingénue </td>
     <td></td>
     <td>shirly temple</td>
-    <td></td>
+    <td>Bruise</td>
     <td></td>
     <td>Path E</td>
   </tr>
