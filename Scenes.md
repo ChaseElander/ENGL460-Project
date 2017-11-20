@@ -84,6 +84,8 @@ option to help one
 
 people look down on you, servant may tell you something about the host
 
+## Host's Son
+
 ## Listen to Live Music
 
 ## Call to Dinner (from other room)
@@ -92,9 +94,9 @@ people look down on you, servant may tell you something about the host
 
 ## Dinner
 
-## DrinksAndSmoking
+## Drinks and Smoking
 
-## CallForDessert
+## Call for Dessert
 
 ## Dessert
 
