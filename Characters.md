@@ -53,7 +53,7 @@
     <td> The Ice Queen </td>
     <td></td>
     <td>Champagne</td>
-    <td></td>
+    <td>Stunning diamond necklace</td>
     <td></td>
     <td>Path C</td>
   </tr>
