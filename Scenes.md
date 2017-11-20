@@ -18,7 +18,7 @@ office. Where do you go?
 
 You enter the office behind the 2 men who are sitting facing the fire place having a quiet conversation. They don't notice you enter the room alone and continue the conversation:
 
-Man 1 (*should we identify them some other way or wait until later and be like "Aha! the man in the office is this guy!!"*): I don't know Roger, the guy just seems so unstable. There's no way he will do well in the company.
+Man 1: I don't know Roger, the guy just seems so unstable. There's no way he will do well in the company. (He jiggles his wrist to fix the position of his expensive looking Rolex watch)
 
 Man2: But his family is too important to the state, if we get rid of him, our stocks could plummet. His family practically controls the market.
 
