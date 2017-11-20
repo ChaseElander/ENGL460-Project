@@ -86,6 +86,9 @@ people look down on you, servant may tell you something about the host
 
 ## Host's Son
 
+* Reaffirms help's statement 
+* Notice that he has a bruise on his arm
+
 ## Listen to Live Music
 
 ## Call to Dinner (from other room)
