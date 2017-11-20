@@ -61,7 +61,9 @@ Rolex man: Good evening everyone, and welcome to my home. I am so glad that you 
 He steps down the stairs and you decide where you want to go next:
 
 -Meet the elusive man that is the [[host->host]] of the party
+
 -Talk to your [[date->your date]] and maybe get some food
+
 -talk to that beautiful [[woman->seductress]] with the diamond necklace
 
 # _________________________ Prolouge Ends 
