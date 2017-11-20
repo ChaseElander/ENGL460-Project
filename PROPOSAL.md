@@ -56,7 +56,7 @@ We are utilizing Twine for production and Github for collaboration. We have also
   </tr>
   <tr>
     <td>S1: Number of Characters</td>
-    <td>0</td>
+    <td>100%</td>
     <td>G1: Character Backstories</td>
     <td>0</td>
     <td>B1: Playable Murderer</td>
