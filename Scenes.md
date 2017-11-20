@@ -52,6 +52,19 @@ You start trying to find some justification for what you just heard, but just fi
 
 ## Main Room
 
+You enter the ballroom through grande double doors and look around to find your date. Your eyes fall upon a beautiful woman in a slender, red satin gown who is laughing and drinking a glass of champagne with a man. She is wearing a gorgeous string of bright diamonds that are sparkling in the light. You kind of want to go talk to her. You keep searching though and see a man with a distinct Rolex watch talking in hushed tones to someone over by the staircase. Finally you see your daate, Taylor, standing over by the food tables.
+
+You are slowly walking forward in the room when the man witht he Rolex walks up onto the stairs and clinks a glass to grab everyone's focus:
+
+Rolex man: Good evening everyone, and welcome to my home. I am so glad that you all have gathered here with us tonight and I hope you all have a chance to get to know each other. i am your Host, Buff Wellington, and I can't wait to meet all of you. 
+
+He steps down the stairs and you decide where you want to go next:
+
+-Meet the elusive man that is the [[host->host]] of the party
+
+-Talk to your [[date->your date]] and maybe get some food
+
+-talk to that beautiful [[woman->seductress]] with the diamond necklace
 
 # _________________________ Prolouge Ends 
 
