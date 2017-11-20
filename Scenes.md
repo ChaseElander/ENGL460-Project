@@ -9,7 +9,7 @@ has provided for you. We hope you have fun and are prepared for everything tonig
 ## activities
 
 Upon entering the house, you and your plus one see 3 rooms to possibly enter first. There is a [[coat room->coat room]] to
-the right  where many people are going in and out of, there is a [[small office->small office]] where there seems to be a
+the right  where many people are going in and out of, there is a [[small office->small office 1]] where there seems to be a
 few people talking in hushed tones with each other. Finally, straight ahead there is the [[main room->main room]] where the
 majority of people seem to be congregating. You really want to shed your coat, but you're also curious about what is in the
 office. Where do you go?
@@ -30,7 +30,7 @@ Man 1: Oh come on now, while that would be a blessing to us, that's ridiculous. 
 
 You realize you've paused while looking at a book you've picked up from off the shelf and are staring at the back of the 2 men's heads. You quietly replace the book and dash out of the room without a sound. Do you go to the [[main room]] to tell your date or to the [[bathroom->bathroom]] to privately collect your thoughts and maybe even relieve your bladder?
 
-## Small Office (not detailed)
+## Small Office 2 (not detailed)
 
 "Just fire the man!" you overhear as you enter the room, finding two men ending what seems like a jolly discussion. 
 
@@ -44,7 +44,7 @@ Coats that would cost thousands of dollars. A particular coat catches our eye, a
 so shiny that it doesn't even seem real. On your way out at the end of the party, you think you will try to remember to see who
 has that coat because you want to tell them how beautiful it is.
 
-The [[Main room->main room]] noise catches your ear and you float out of the coat room to join the party.
+Your curiosity is peaked and you want to go see what is going on in the [[small office -> small office 2]] but you also want to just go ahead and join the party in the [[main room]]. Where do you go?
 
 ## Bathroom
 
