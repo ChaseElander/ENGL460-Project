@@ -40,7 +40,7 @@
     <td>Path A</td>
   </tr>
   <tr>
-    <td>Other man in office</td>
+    <td> Buff Wellington (Other man in office)</td>
     <td> Rich Host</td>
     <td></td>
     <td>Whiskey</td>
