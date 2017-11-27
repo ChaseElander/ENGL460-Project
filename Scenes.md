@@ -70,7 +70,11 @@ He steps down the stairs and you decide where you want to go next:
 
 ## Speak To Your Date
 
-Description of your date's characteristics
+You walk up to your date, admiring their classy black outfit that they managed to scrounge together from their closet before the dinner. Neither of you are as rich and well-off as the rest of the party guests, here, but you don't seem to stand out too much. As your date turns around, they have 2 drinks, one in each hand. You grab yours, and they begin to sip on their own drink, a very strong bourbon and coke. You really are hungry so you ask if you can get some food, but your date erally wants to start socializing with people. They point you towards the [[host]] of the party and the [[woman]] whose necklace you were admiring earlier. You start to think that you can just grab a quick snack on the way to talk to one of them but ou are frightfully starving. Should you tell your date that you would rather just find a waiter with some [[Hors d'eurves->Hors d'eurves]] to hang out by? 
+
+But wait, thereis a delectible smell coming from the [[kitchen]], maybe you coud hide in there and stuff your face for 5 minutes then go socialize. 
+
+What do you do?
 
 ## Speak to Seductress
 
