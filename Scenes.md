@@ -32,9 +32,9 @@ You realize you've paused while looking at a book you've picked up from off the 
 
 ## Small Office 2 (not detailed)
 
-"Just fire the man!" you overhear as you enter the room, finding two men ending what seems like a jolly discussion. 
+"Just fire the man!" you overhear as you enter the room, finding two men ending what seems like a jolly discussion.
 
-You stare at the back of the 2 men's heads as they laugh together before deciding to step out into the [[Main room->main room]] to join the rest of the party. 
+You stare at the back of the 2 men's heads as they laugh together before deciding to step out into the [[Main room->main room]] to join the rest of the party.
 
 
 ## Coat Room
@@ -52,11 +52,11 @@ You start trying to find some justification for what you just heard, but just fi
 
 ## Main Room
 
-You enter the ballroom through grande double doors and look around to find your date. Your eyes fall upon a beautiful woman in a slender, red satin gown who is laughing and drinking a glass of champagne with a man. She is wearing a gorgeous string of bright diamonds that are sparkling in the light. You kind of want to go talk to her. You keep searching though and see a man with a distinct Rolex watch talking in hushed tones to someone over by the staircase. Finally you see your daate, Taylor, standing over by the food tables.
+You enter the ballroom through grande double doors and look around to find your date. Your eyes fall upon a beautiful woman in a slender, red satin gown who is laughing and drinking a glass of champagne with a man. She is wearing a gorgeous string of bright diamonds that are sparkling in the light. You kind of want to go talk to her. You keep searching though and see a man with a distinct Rolex watch talking in hushed tones to someone over by the staircase. Finally you see your date, Taylor, standing over by the food tables.
 
-You are slowly walking forward in the room when the man witht he Rolex walks up onto the stairs and clinks a glass to grab everyone's focus:
+You are slowly walking forward in the room when the man with the Rolex walks up onto the stairs and clinks a glass to grab everyone's focus:
 
-Rolex man: Good evening everyone, and welcome to my home. I am so glad that you all have gathered here with us tonight and I hope you all have a chance to get to know each other. i am your Host, Buff Wellington, and I can't wait to meet all of you. 
+Rolex man: Good evening everyone, and welcome to my home. I am so glad that you all have gathered here with us tonight and I hope you all have a chance to get to know each other. I am your Host, Buff Wellington, and I can't wait to meet all of you.
 
 He steps down the stairs and you decide where you want to go next:
 
@@ -66,7 +66,7 @@ He steps down the stairs and you decide where you want to go next:
 
 -talk to that beautiful [[woman->seductress]] with the diamond necklace
 
-# _________________________ Prolouge Ends 
+# _________________________ Prologue Ends
 
 ## Speak To Your Date
 
@@ -78,21 +78,6 @@ What do you do?
 
 ## Speak to Seductress
 
-"I'm going to go talk to that woman over there. she looks like she knows a lot of the people here, so maybe she can tell us a little about what this party is!", you say to Taylor before you walk over to the Redheaded woman.
-
-You walk up to her and her companion, and say hello.
-
-Her: "why hello my young friend! I'm Darlene, how are you this evening?"
-
-You: "good, how are you?"
-
-Darlene: "Delighted to meet your aquaintance, let meintroduce you to my friend here. This is James, he went to school with Mr. Wellington's son, but he is older. He works at the company with several of the other men here. It's really quite stressful, they are all competing right now for a promotion. There's some good guys, that would do well in the position, but certainly not all of them!" She laughs and jokingly motions towards James. "The only way he'll probably get it is if all the other guys just disappear!" Her laugh sings out, blocking out almost all other noise.
-
-James: "Hey, don't spoil my plans! Ha-ha. As if though, that's not my style really"
-
-You: "Well I didn't realize so many people here worked for our host!"
-
-Very loud [[Live music-> Listen to live music]] begins to play and the pair swirls off, her dancing gracefully and him just sort of following and watching, trying not to spill his beer.
 
 ## Speak to Host
 
@@ -110,7 +95,7 @@ Your date leads you towards a waiter with food
 
 ## Kitchen
 
-you smell amazing things from the kitchen 
+you smell amazing things from the kitchen
 
 ## Dining Room
 
@@ -119,11 +104,19 @@ option to help one
 
 ## Help servant
 
-people look down on you, servant may tell you something about the host
+people look down on you, but a servant may tell you something about the host.
+
+"Excuse me ma'am, do you need any help?" 
+
+"Do I need help? What  kind of silly question is that? Of course, I need help." The woman directs you to complete some tasks and you proceed to help her. After you have finished, she thanks you.
+
+"Thank you so much for your help sweetie. If you hadn't helped we would've been so far behind schedule and that would've been terrible, you see...*she lowers her voice* the boss has a bit of a...ummm...a bit of a temper. She nudges her head towards a lanky, paled skin boy.  
+
+"Hmmmph...a bit" he snickers. Do you [[approach him -> Host's Son]] or do you scurry on to the [[dining room -> Dining Room]] ? Taylor might be looking for you.
 
 ## Host's Son
 
-* Reaffirms help's statement 
+* Reaffirms help's statement
 * Notice that he has a bruise on his arm
 
 ## Listen to Live Music

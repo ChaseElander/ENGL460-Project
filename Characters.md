@@ -16,7 +16,7 @@
   <tr>
     <td> Roger (Man in Office)</td>
     <td>not sure</td>
-    <td>Made vague reference to killing his employee</td>
+    <td></td>
     <td>Scotch</td>
     <td></td>
     <td></td>
@@ -40,7 +40,7 @@
     <td>Path A</td>
   </tr>
   <tr>
-    <td>Other man in office</td>
+    <td> Buff Wellington (Other man in office)</td>
     <td> Rich Host</td>
     <td></td>
     <td>Whiskey</td>
@@ -60,7 +60,7 @@
   <tr>
     <td></td>
     <td> The Alpha Male </td>
-    <td></td>
+    <td>was seen talking to Seductress in Main room</td>
     <td>Light Beer</td>
     <td></td>
     <td></td>
