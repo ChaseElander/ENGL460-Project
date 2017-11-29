@@ -58,7 +58,7 @@
     <td>Path C</td>
   </tr>
   <tr>
-    <td></td>
+    <td> James </td>
     <td> The Alpha Male </td>
     <td>was seen talking to Seductress in Main room</td>
     <td>Light Beer</td>
