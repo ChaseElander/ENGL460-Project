@@ -78,11 +78,31 @@ What do you do?
 
 ## Speak to Seductress
 
+"I'm going to go talk to that woman over there. she looks like she knows a lot of the people here, so maybe she can tell us a little about what this party is!", you say to Taylor before you walk over to the Redheaded woman.
 
+You walk up to her and her companion, and say hello.
+
+Her: "why hello my young friend! I'm Darlene, how are you this evening?"
+
+You: "good, how are you?"
+
+Darlene: "Delighted to meet your aquaintance, let meintroduce you to my friend here. This is James, he went to school with Mr. Wellington's son, but he is older. He works at the company with several of the other men here. It's really quite stressful, they are all competing right now for a promotion. There's some good guys, that would do well in the position, but certainly not all of them!" She laughs and jokingly motions towards James. "The only way he'll probably get it is if all the other guys just disappear!" Her laugh sings out, blocking out almost all other noise.
+
+James: "Hey, don't spoil my plans! Ha-ha. As if though, that's not my style really"
+
+You: "Well I didn't realize so many people here worked for our host!"
+
+Very loud [[Live music-> Listen to live music]] begins to play and the pair swirls off, her dancing gracefully and him just sort of following and watching, trying not to spill his beer.
 
 ## Speak to Host
 
-Description of Host's characteristics
+You approach the host, eager to meet this mysterious man. He turns and sees you, outstretches his hand that isn't holding a glass of whiskey, and smiles.
+
+Taking his hand, you introduce yourself and he begins talking, "Yes, I invited many co-workers here to this party, and some of their friends. However, I don't recognize you, I didn't personally send the invitations but I'm sure you were invited for a reason. Perhaps you will run into someone you know tonight!"
+
+You think abotu what he said. Someone you know may be here? That seems unlikely, but it is a big party, maybe he is right.
+
+You ask him about his watch and he tells you its a one-of-a-kind Rolex, custom made to fit his wrist like a glove. You start to ask what kind of company it is that he runs but very [[loud music->Listen to Live Music]] begins playing and he encourages you to go dance. 
 
 ## Hors d'eurves
 
