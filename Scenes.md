@@ -70,9 +70,9 @@ He steps down the stairs and you decide where you want to go next:
 
 ## Speak To Your Date
 
-You walk up to your date, admiring their classy black outfit that they managed to scrounge together from their closet before the dinner. Neither of you are as rich and well-off as the rest of the party guests, here, but you don't seem to stand out too much. As your date turns around, they have 2 drinks, one in each hand. You grab yours, and they begin to sip on their own drink, a very strong bourbon and coke. You really are hungry so you ask if you can get some food, but your date erally wants to start socializing with people. They point you towards the [[host]] of the party and the [[woman]] whose necklace you were admiring earlier. You start to think that you can just grab a quick snack on the way to talk to one of them but ou are frightfully starving. Should you tell your date that you would rather just find a waiter with some [[Hors d'eurves->Hors d'eurves]] to hang out by? 
+You walk up to your date, admiring their classy black outfit that they managed to scrounge together from their closet before the dinner. Neither of you are as rich and well-off as the rest of the party guests, here, but you don't seem to stand out too much. As your date turns around, they have 2 drinks, one in each hand. You grab yours, and they begin to sip on their own drink, a very strong bourbon and coke. You really are hungry so you ask if you can get some food, but your date really wants to start socializing with people. They point you towards the [[host]] of the party and the [[woman]] whose necklace you were admiring earlier. You start to think that you can just grab a quick snack on the way to talk to one of them but you are frightfully starving. Should you tell your date that you would rather just find a waiter with some [[Hors d'eurves->Hors d'eurves]] to hang out by?
 
-But wait, thereis a delectible smell coming from the [[kitchen]], maybe you coud hide in there and stuff your face for 5 minutes then go socialize. 
+But wait, there is a delectable smell coming from the [[kitchen]], maybe you could hide in there and stuff your face for 5 minutes then go socialize.
 
 What do you do?
 
@@ -90,7 +90,9 @@ Your date leads you towards a waiter with food
 
 ## Kitchen
 
-you smell amazing things from the kitchen
+You drift into the kitchen as the wondrous smells pull you in. There you see cooks hastily doing their job. There is a vast array of food that is being cooked. Dish after dish is being shoved out into the dining room.
+
+It seems like you won't have any luck getting food here so you move along into the [[dining room -> Dining Room]] to see if someone will serve you a plate.  ~~you smell amazing things from the kitchen~~
 
 ## Dining Room
 
@@ -99,11 +101,11 @@ option to help one
 
 ## Help servant
 
-people look down on you, but a servant may tell you something about the host.
+~~people look down on you, but a servant may tell you something about the host.~~
 
-"Excuse me ma'am, do you need any help?" 
+"Excuse me ma'am, do you need any help?"
 
-"Do I need help? What  kind of silly question is that? Of course, I need help." The woman directs you to complete some tasks and you proceed to help her. After you have finished, she thanks you.
+"Do I need help? What  kind of absurd question is that? Of course, I need help!" The woman directs you to complete some tasks and you proceed to help her. After you have finished, she thanks you.
 
 "Thank you so much for your help sweetie. If you hadn't helped we would've been so far behind schedule and that would've been terrible, you see...*she lowers her voice* the boss has a bit of a...ummm...a bit of a temper. She nudges her head towards a lanky, paled skin boy.  
 
@@ -115,6 +117,8 @@ people look down on you, but a servant may tell you something about the host.
 * Notice that he has a bruise on his arm
 
 ## Listen to Live Music
+
+# _________________________ Act 2 Begins
 
 ## Call to Dinner (from other room)
 
