@@ -78,7 +78,7 @@ What do you do?
 
 ## Speak to Seductress
 
-Description of Seductress's characteristics
+
 
 ## Speak to Host
 
@@ -99,9 +99,15 @@ option to help one
 
 ## Help servant
 
-people look down on you, servant may tell you something about the host
-"Excuse me ma'am, do you need any help?" "Do I need help? What  kind of silly question is that? Of course, I need help." The woman directs you to complete some tasks and you proceed to help her. After you have finished, she thanks you.
-"Thank you so much for your help sweetie. If you wouldn't have helped we would've been so far behind schedule and that would've been terrible, you see...*she lowers her voice* the boss has a bit of a...ummm...a bit of a temper. She nudges her head towards a lanky, paled skin boy.  "Hmmmph...a bit" he snickers. Do you [[approach him -> Host's Son]] or do you scurry on to the [[dining room -> Dining Room]] ? Taylor might be looking for you.
+people look down on you, but a servant may tell you something about the host.
+
+"Excuse me ma'am, do you need any help?" 
+
+"Do I need help? What  kind of silly question is that? Of course, I need help." The woman directs you to complete some tasks and you proceed to help her. After you have finished, she thanks you.
+
+"Thank you so much for your help sweetie. If you hadn't helped we would've been so far behind schedule and that would've been terrible, you see...*she lowers her voice* the boss has a bit of a...ummm...a bit of a temper. She nudges her head towards a lanky, paled skin boy.  
+
+"Hmmmph...a bit" he snickers. Do you [[approach him -> Host's Son]] or do you scurry on to the [[dining room -> Dining Room]] ? Taylor might be looking for you.
 
 ## Host's Son
 
