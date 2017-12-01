@@ -140,16 +140,149 @@ option to help one
 
 # _________________________ Act 2 Begins
 
+# Left side of twine
+
 ## Call to Dinner (from other room)
 
-## Call to Dinner (from in dining room)
+## Loud Noise Heard
 
-## Dinner
+## Party splits in 3 parts
 
-## Drinks and Smoking
+## 2 Balcony
 
-## Call for Dessert
+## 2 Bedroom
 
-## Dessert
+## 2 Ballroom
 
-## Missing
+## 2 Loose Railing 
+
+## 2 Back to Bedroom
+
+## 2 bathroom
+
+## 2 Hide under table
+
+## 2 Hallway
+
+## 2 loud crash
+
+## 2 Piano Lounge
+
+## 2 master bedroom
+
+maria
+
+## 2 shattering
+
+## 2 shattering hide
+
+## 2 shattering lawn
+
+## 2 piano hide
+
+## 2 Find source
+
+## 2 crash master bedroom
+
+maria
+
+## wait
+
+maria
+
+## Killed in Bedroom
+
+maria
+
+## 2 crash hall
+
+## 2 check window
+
+maria
+
+## 2 crash piano
+
+## 2 crash body
+
+## 2 call everyone back together
+
+maria
+
+
+
+# right side
+
+## call to dinner 2
+
+## Loud noise 2
+
+## Party split 2
+
+## 1 Hide
+
+## 1 Locked in closet
+
+## 1 Balcony
+
+## 1 Bedroom
+
+## 1 Ballroom
+
+## 1 loose railing
+
+## fall to your death
+
+## 1 Back to bedroom
+
+## 1 bathroom
+
+## 1 Hallway
+
+## 1 master bedroom
+
+## 1 piano lounge
+
+more???
+
+# ----------- Accusation stages -------------
+
+# Left side
+
+## Point Fingers
+
+## Question 1
+
+## Question 2
+
+Catch murderer
+
+## Question 3
+
+guess wrong
+
+## Question A
+
+## Question B 
+
+frame someone
+
+## Question C
+
+Catch different murderer
+
+# Right side
+
+## Point Fingers
+
+## Question 1
+
+## Question 2
+
+## Question 3
+
+## Question A
+
+## Question B 
+
+## Question C
+
