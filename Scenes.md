@@ -106,13 +106,23 @@ You ask him about his watch and he tells you its a one-of-a-kind Rolex, custom m
 
 ## Hors d'eurves
 
-Your date leads you towards a waiter with food
+Taylor leads you towards a waiter with some food on a tray that looks absolutely delicious! You grab a solid handful of he snacks and make small talk with the waiter while you try to gracefully shove the food in your mouth.
+
+you: so how do you like working here?
+
+Him: oh, it's wonderful. Mr. Wellington is a great boss.
+
+you: really? Well I guess that makes sense since he runs a company on his own anyway.
+
+Him: yes, well his management of the company is somewhat unorthodox from what I hear.
+
+You take this information, nod, still chewing your food, then walk away to the [dining room->dining room].
 
 ## Kitchen
 
 You drift into the kitchen as the wondrous smells pull you in. There you see cooks hastily doing their job. There is a vast array of food that is being cooked. Dish after dish is being shoved out into the dining room.
 
-It seems like you won't have any luck getting food here so you move along into the [[dining room -> Dining Room]] to see if someone will serve you a plate.  ~~you smell amazing things from the kitchen~~
+It seems like you won't have any luck getting food here so you move along into the [[dining room -> Dining Room]] to see if someone will serve you a plate.  
 
 ## Dining Room
 
