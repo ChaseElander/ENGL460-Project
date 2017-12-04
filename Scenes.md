@@ -122,7 +122,7 @@ You take this information, nod, still chewing your food, then walk away to the [
 
 You drift into the kitchen as the wondrous smells pull you in. There you see cooks hastily doing their job. There is a vast array of food that is being cooked. Dish after dish is being shoved out into the dining room.
 
-It seems like you won't have any luck getting food here so you move along into the [[dining room -> Dining Room]] to see if someone will serve you a plate.  
+It seems like you won't have any luck getting food here so you start to move along into the [[dining room -> Dining Room]] to see if someone will serve you a plate. But you notice a waitress sruggling to load food onto her tray. Do you stop to [help->Help Servant] her?
 
 ## Dining Room
 
@@ -131,20 +131,21 @@ option to help one
 
 ## Help servant
 
-~~people look down on you, but a servant may tell you something about the host.~~
-
 "Excuse me ma'am, do you need any help?"
 
 "Do I need help? What  kind of absurd question is that? Of course, I need help!" The woman directs you to complete some tasks and you proceed to help her. After you have finished, she thanks you.
 
-"Thank you so much for your help sweetie. If you hadn't helped we would've been so far behind schedule and that would've been terrible, you see...*she lowers her voice* the boss has a bit of a...ummm...a bit of a temper. She nudges her head towards a lanky, paled skin boy.  
+"Thank you so much for your help sweetie. If you hadn't helped we would've been so far behind schedule and that would've been terrible, you see...*she lowers her voice* the boss has a bit of a...ummm...a bit of a temper. She nudges her head towards a lanky, pale skinned boy.  
 
 "Hmmmph...a bit" he snickers. Do you [[approach him -> Host's Son]] or do you scurry on to the [[dining room -> Dining Room]] ? Taylor might be looking for you.
 
 ## Host's Son
 
-* Reaffirms help's statement
-* Notice that he has a bruise on his arm
+you: "So the guy has a temper huh?"
+
+him: "My dad? Of course he does, he has nothing else to do with his time, so he finds ways to entertain himself when things aren't going absloutely perfectly."
+
+You notice a bruise on the son's arm and think about how big Wellington's temper must really be. Poor kid. You decide not to bother him anymore and move on to the [Dining room]. 
 
 ## Listen to Live Music
 
