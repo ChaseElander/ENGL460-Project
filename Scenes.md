@@ -86,7 +86,7 @@ Her: "why hello my young friend! I'm Darlene, how are you this evening?"
 
 You: "good, how are you?"
 
-Darlene: "Delighted to meet your aquaintance, let meintroduce you to my friend here. This is James, he went to school with Mr. Wellington's son, but he is older. He works at the company with several of the other men here. It's really quite stressful, they are all competing right now for a promotion. There's some good guys, that would do well in the position, but certainly not all of them!" She laughs and jokingly motions towards James. "The only way he'll probably get it is if all the other guys just disappear!" Her laugh sings out, blocking out almost all other noise.
+Darlene: "Delighted to meet your acquaintance, let me introduce you to my friend here. This is James, he went to school with Mr. Wellington's son, but he is older. He works at the company with several of the other men here. It's really quite stressful, they are all competing right now for a promotion. There's some good guys, that would do well in the position, but certainly not all of them!" She laughs and jokingly motions towards James. "The only way he'll probably get it is if all the other guys just disappear!" Her laugh sings out, blocking out almost all other noise.
 
 James: "Hey, don't spoil my plans! Ha-ha. As if though, that's not my style really"
 
@@ -100,9 +100,9 @@ You approach the host, eager to meet this mysterious man. He turns and sees you,
 
 Taking his hand, you introduce yourself and he begins talking, "Yes, I invited many co-workers here to this party, and some of their friends. However, I don't recognize you, I didn't personally send the invitations but I'm sure you were invited for a reason. Perhaps you will run into someone you know tonight!"
 
-You think abotu what he said. Someone you know may be here? That seems unlikely, but it is a big party, maybe he is right.
+You think about what he said. Someone you know may be here? That seems unlikely, but it is a big party, maybe he is right.
 
-You ask him about his watch and he tells you its a one-of-a-kind Rolex, custom made to fit his wrist like a glove. You start to ask what kind of company it is that he runs but very [[loud music->Listen to Live Music]] begins playing and he encourages you to go dance. 
+You ask him about his watch and he tells you its a one-of-a-kind Rolex, custom made to fit his wrist like a glove. You start to ask what kind of company it is that he runs but very [[loud music->Listen to Live Music]] begins playing and he encourages you to go dance.
 
 ## Hors d'eurves
 
@@ -154,7 +154,7 @@ option to help one
 
 ## 2 Ballroom
 
-## 2 Loose Railing 
+## 2 Loose Railing
 
 ## 2 Back to Bedroom
 
@@ -262,7 +262,7 @@ guess wrong
 
 ## Question A
 
-## Question B 
+## Question B
 
 frame someone
 
@@ -282,7 +282,6 @@ Catch different murderer
 
 ## Question A
 
-## Question B 
+## Question B
 
 ## Question C
-
