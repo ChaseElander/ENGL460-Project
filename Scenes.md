@@ -70,7 +70,7 @@ He steps down the stairs and you decide where you want to go next:
 
 ## Speak To Your Date
 
-You walk up to your date, admiring their classy black outfit that they managed to scrounge together from their closet before the dinner. Neither of you are as rich and well-off as the rest of the party guests, here, but you don't seem to stand out too much. As your date turns around, they have 2 drinks, one in each hand. You grab yours, and they begin to sip on their own drink, a very strong bourbon and coke. You really are hungry so you ask if you can get some food, but your date really wants to start socializing with people. They point you towards the [[host]] of the party and the [[woman]] whose necklace you were admiring earlier. You start to think that you can just grab a quick snack on the way to talk to one of them but you are frightfully starving. Should you tell your date that you would rather just find a waiter with some [[Hors d'eurves->Hors d'eurves]] to hang out by?
+You walk up to your date, admiring their classy black outfit that they managed to scrounge together from their closet before the dinner. As your date turns around, they have 2 drinks, one in each hand. You grab yours, and they begin to sip on their own drink, a very strong bourbon and coke. You really are hungry so you ask if you can get some food, but your date really wants to start socializing with people. They point you towards the [[host]] of the party and the [[woman]] whose necklace you were admiring earlier. You start to think that you can just grab a quick snack on the way to talk to one of them but you are frightfully starving. Should you tell your date that you would rather just find a waiter with some [[Hors d'eurves->Hors d'eurves]] to hang out by?
 
 But wait, there is a delectable smell coming from the [[kitchen]], maybe you could hide in there and stuff your face for 5 minutes then go socialize.
 
@@ -126,8 +126,7 @@ It seems like you won't have any luck getting food here so you start to move alo
 
 ## Dining Room
 
-servants are busy in the dining room, hustle & bustle
-option to help one
+You return to the dining room, find Taylor, and take your drink from his hand. Just as you begin to get into conversation, a bell rings and some unseen voice announces that dinner is about to be served and for everyone to take their seats at the [table->Call to Dinner 2].
 
 ## Help servant
 
@@ -148,6 +147,8 @@ him: "My dad? Of course he does, he has nothing else to do with his time, so he 
 You notice a bruise on the son's arm and think about how big Wellington's temper must really be. Poor kid. You decide not to bother him anymore and move on to the [Dining room]. 
 
 ## Listen to Live Music
+
+You aren't much of a dancer, or rather just don't want to embarass yourself in front of all of these people so you hang to the side with Taylor and just enjoy the music, engaging in small talk. A song ends and while you expect another song to begin, the lead singer says that it is time for dinner and everyone needs to take their [seats->Call To dinner] at the table in the dining room. 
 
 # _________________________ Act 2 Begins
 
