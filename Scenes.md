@@ -156,9 +156,19 @@ You aren't much of a dancer, or rather just don't want to embarass yourself in f
 
 ## Call to Dinner (from other room)
 
+You and Taylor maneuver around the obscenely long dining table and find two place cards with your names on them. In the hustle and bustle of this, you can't tell where everyone is and who is still in the other room. Suddenly there is a loud noise somewhere outside the dining room and most people stop moving. 
+
+What was that?
+
+Do you go [investigate-> Loud Noise Heard] or do you hang out in the dining room to [see what others do-> Party Splits Into 3 Parts]
+
 ## Loud Noise Heard
 
+You walk out of the dining room and look around to decide which way to go. You walk into the [hallway-> 2 Hallway].
+
 ## Party splits in 3 parts
+
+Everyone looks aroud at each other. No one can decide where the noise came from and whether it is important. Some people just want to stay and eat, some want to go out on the [balcony->2 Balcony], some to the [West side->2 Bedroom] of the house, and others to the [South->2 Ballroom]. Where do you go?
 
 ## 2 Balcony
 
