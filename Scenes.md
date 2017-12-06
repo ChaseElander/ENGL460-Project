@@ -106,7 +106,7 @@ You ask him about his watch and he tells you its a one-of-a-kind Rolex, custom m
 
 ## Hors d'eurves
 
-Taylor leads you towards a waiter with some food on a tray that looks absolutely delicious! You grab a solid handful of he snacks and make small talk with the waiter while you try to gracefully shove the food in your mouth.
+Taylor leads you towards a waiter with some food on a tray that looks absolutely delicious! You grab a solid handful of the snacks and make small talk with the waiter while you try to gracefully shove the food in your mouth.
 
 you: so how do you like working here?
 
@@ -122,7 +122,7 @@ You take in this information, nod, still chewing your food, then walk away to th
 
 You drift into the kitchen as the wondrous smells pull you in. There you see cooks hastily doing their job. There is a vast array of food that is being cooked. Dish after dish is being shoved out into the dining room.
 
-It seems like you won't have any luck getting food here so you start to move along into the [[dining room -> Dining Room]] to see if someone will serve you a plate. But you notice a waitress sruggling to load food onto her tray. Do you stop to [help->Help Servant] her?
+It seems like you won't have any luck getting food here so you start to move along into the [[dining room -> Dining Room]] to see if someone will serve you a plate. But you notice a waitress struggling to load food onto her tray. Do you stop to [help->Help Servant] her?
 
 ## Dining Room
 
@@ -144,11 +144,11 @@ you: "So the guy has a temper huh?"
 
 him: "My dad? Of course he does, he has nothing else to do with his time, so he finds ways to entertain himself when things aren't going absloutely perfectly."
 
-You notice a bruise on the son's arm and think about how big Wellington's temper must really be. Poor kid. You decide not to bother him anymore and move on to the [Dining room]. 
+You notice a bruise on the son's arm and think about how big Wellington's temper must really be. Poor kid. You decide not to bother him anymore and move on to the [Dining room].
 
 ## Listen to Live Music
 
-You aren't much of a dancer, or rather just don't want to embarass yourself in front of all of these people so you hang to the side with Taylor and just enjoy the music, engaging in small talk. A song ends and while you expect another song to begin, the lead singer says that it is time for dinner and everyone needs to take their [seats->Call To dinner] at the table in the dining room. 
+You aren't much of a dancer, or rather just don't want to embarass yourself in front of all of these people so you hang to the side with Taylor and just enjoy the music, engaging in small talk. A song ends and while you expect another song to begin, the lead singer says that it is time for dinner and everyone needs to take their [seats->Call To dinner] at the table in the dining room.
 
 # _________________________ Act 2 Begins
 
@@ -156,7 +156,7 @@ You aren't much of a dancer, or rather just don't want to embarass yourself in f
 
 ## Call to Dinner (from other room)
 
-You and Taylor maneuver around the obscenely long dining table and find two place cards with your names on them. In the hustle and bustle of this, you can't tell where everyone is and who is still in the other room. Suddenly there is a loud noise somewhere outside the dining room and most people stop moving. 
+You and Taylor maneuver around the obscenely long dining table and find two place cards with your names on them. In the hustle and bustle of this, you can't tell where everyone is and who is still in the other room. Suddenly there is a loud noise somewhere outside the dining room and most people stop moving.
 
 What was that?
 
@@ -182,9 +182,9 @@ Do you go investigate the [railing->2 Loose Railing] or do you go back to the be
 
 ## 2 Loose Railing
 
-You walk over to the railing, and peer over. There's something down there... what is it? Is it... a body?  Suddenly a squirrel jumps off the roof and lands right behind you making you jump, lose your footing and then fall over the edge. 
+You walk over to the railing, and peer over. There's something down there... what is it? Is it... a body?  Suddenly a squirrel jumps off the roof and lands right behind you making you jump, lose your footing and then fall over the edge.
 
-You are killed instantly. 
+You are killed instantly.
 
 ## 2 Back to Bedroom
 
@@ -206,7 +206,7 @@ Which room do you go to?
 
 ## 2 Piano Lounge
 
-You see sheet music spread all over the floor of the room. The piano bench is kicked over. A lamp is knocked on the ground. 
+You see sheet music spread all over the floor of the room. The piano bench is kicked over. A lamp is knocked on the ground.
 
 What the hell happened in here?
 
@@ -219,7 +219,7 @@ maria
 
 ## 2 shattering
 
-You think someone fell through the window! 
+You think someone fell through the window!
 
 *Holy crap what is wrong with this party* you think to yourself
 
@@ -231,11 +231,11 @@ You look around for a place to hide. Behind the couch? no. Your heat pounds insi
 
 ## 2 shattering lawn
 
-You run across the room and around the corner to where the window is. You don't see anybody except a still lifeless body on the ground. Fear grips your soul, you try to scream but feel like nothing is coming out of your throat. You don't know what to do so you stand motionless, frozen in fear until you hear someone [calling->2 Call Everyone Back Together] for people to come to the dining room. 
+You run across the room and around the corner to where the window is. You don't see anybody except a still lifeless body on the ground. Fear grips your soul, you try to scream but feel like nothing is coming out of your throat. You don't know what to do so you stand motionless, frozen in fear until you hear someone [calling->2 Call Everyone Back Together] for people to come to the dining room.
 
 ## 2 piano hide
 
-You turn around on your stomach so you can see out into the room from your hiding spot. You look around, then down at the sheet music below you. It's dark but you think you can make out something on one of the papers. It looks like a footprint. Men's shoes size 10 maybe? And the faintest mark of a designer's name in the middle, but you can't read it. 
+You turn around on your stomach so you can see out into the room from your hiding spot. You look around, then down at the sheet music below you. It's dark but you think you can make out something on one of the papers. It looks like a footprint. Men's shoes size 10 maybe? And the faintest mark of a designer's name in the middle, but you can't read it.
 
 Whose shoe made this mark? Suddenly something drips on your hand from the edge of the piano, you smell it... it smells like... bourbon? whiskey? Is there even a difference betweent he two? you can't tell. You decide to [wait->Wait] for someone else, maybe even Taylor to come find you.
 
@@ -272,6 +272,7 @@ maria
 # right side
 
 ## call to dinner 2
+You and Taylor enter the dining room along with a river of other people. Fortunately for the guests, placards have been placed on the table to accommodate everyone's seating, so you don't have to worry about finding a table. You just need to find your name. It is still a little chaotic and the buzzing noise of people scurrying to find their table inundates the room. Suddenly a loud noise is heard and it scares the whole room. You look around and everyone has the same perplexed look on their face. Do you go investigate what the [[loud noise was -> loud noise 2]] or do you [[stay in the room -> party split 2]]
 
 ## Loud noise 2
 
@@ -281,11 +282,11 @@ maria
 
 ## 1 Locked in closet
 
-You rush over to the closet door, and close the door behind you when you get inside. 
+You rush over to the closet door, and close the door behind you when you get inside.
 
-A shadow crosses in front of the door and stops. You hear a deep sinister laugh and then the click of a lock. You look down, grab the door handle and try to turn it but it doesn't budge. 
+A shadow crosses in front of the door and stops. You hear a deep sinister laugh and then the click of a lock. You look down, grab the door handle and try to turn it but it doesn't budge.
 
-You are locked in! You bang on the door but no one hears you, no one ever hears you, no one comes back for you. You die in a few days from starvation. 
+You are locked in! You bang on the door but no one hears you, no one ever hears you, no one comes back for you. You die in a few days from starvation.
 
 ## 1 Balcony
 
