@@ -116,7 +116,7 @@ you: really? Well I guess that makes sense since he runs a company on his own an
 
 Him: yes, well his management of the company is somewhat unorthodox from what I hear.
 
-You take this information, nod, still chewing your food, then walk away to the [dining room->dining room].
+You take in this information, nod, still chewing your food, then walk away to the [dining room->dining room].
 
 ## Kitchen
 
@@ -172,13 +172,25 @@ Everyone looks aroud at each other. No one can decide where the noise came from 
 
 ## 2 Balcony
 
+You leave the dining room and go looking for the noise, and end up on a balcony outside a small bedroom. There's a broken wine glass on the ground, most of its contents spilled everywhere. The railing is broken and leaning out over the lawn. *what the hell happened?* you think.
+
+Do you go investigate the [railing->2 Loose Railing] or do you go back to the bedroom you came out through?
+
 ## 2 Bedroom
 
 ## 2 Ballroom
 
 ## 2 Loose Railing
 
+You walk over to the railing, and peer over. There's something down there... what is it? Is it... a body?  Suddenly a squirrel jumps off the roof and lands right behind you making you jump, lose your footing and then fall over the edge. 
+
+You are killed instantly. 
+
 ## 2 Back to Bedroom
+
+You turn around and walk back inside. "Something is going on in this place and I don't like it," you say to yourself.
+
+This is just messed up. You walk throught the room and into the [hallway->2 Hallway].
 
 ## 2 bathroom
 
@@ -186,9 +198,20 @@ Everyone looks aroud at each other. No one can decide where the noise came from 
 
 ## 2 Hallway
 
+You walk down the hallway peaking into the different rooms that you see. This is such a big house. You see a large door ajar at the end of the hallway, perhaps it is the [Master Bedroom->2 Master Bedroom] but to your left is a room with a [grand piano->2 Piano Lounge] and sheet music spread on the floor.
+
+Which room do you go to?
+
 ## 2 loud crash
 
 ## 2 Piano Lounge
+
+You see sheet music spread all over the floor of the room. The piano bench is kicked over. A lamp is knocked on the ground. 
+
+What the hell happened in here?
+
+Wait... you hear heavy breathing... someone is in here.... [CRASH!!!->2 Shattering]
+
 
 ## 2 master bedroom
 
@@ -196,11 +219,25 @@ maria
 
 ## 2 shattering
 
+You think someone fell through the window! 
+
+*Holy crap what is wrong with this party* you think to yourself
+
+Do you [hide->2 Shattering Hide] somewhere or do you go [look->2 Shattering Lawn] out the window?
+
 ## 2 shattering hide
+
+You look around for a place to hide. Behind the couch? no. Your heat pounds inside you chest, your ears are ringing, your eyes beginning to blur. Do you scurry and dive under the [piano->2 Piano hide], brushing some sheet music underneath with you or do you [hide in the closet->2 Locked in Closet] that is over on the other side of the room?
 
 ## 2 shattering lawn
 
+You run across the room and around the corner to where the window is. You don't see anybody except a still lifeless body on the ground. Fear grips your soul, you try to scream but feel like nothing is coming out of your throat. You don't know what to do so you stand motionless, frozen in fear until you hear someone [calling->2 Call Everyone Back Together] for people to come to the dining room. 
+
 ## 2 piano hide
+
+You turn around on your stomach so you can see out into the room from your hiding spot. You look around, then down at the sheet music below you. It's dark but you think you can make out something on one of the papers. It looks like a footprint. Men's shoes size 10 maybe? And the faintest mark of a designer's name in the middle, but you can't read it. 
+
+Whose shoe made this mark? Suddenly something drips on your hand from the edge of the piano, you smell it... it smells like... bourbon? whiskey? Is there even a difference betweent he two? you can't tell. You decide to [wait->Wait] for someone else, maybe even Taylor to come find you.
 
 ## 2 Find source
 
@@ -243,6 +280,12 @@ maria
 ## 1 Hide
 
 ## 1 Locked in closet
+
+You rush over to the closet door, and close the door behind you when you get inside. 
+
+A shadow crosses in front of the door and stops. You hear a deep sinister laugh and then the click of a lock. You look down, grab the door handle and try to turn it but it doesn't budge. 
+
+You are locked in! You bang on the door but no one hears you, no one ever hears you, no one comes back for you. You die in a few days from starvation. 
 
 ## 1 Balcony
 
