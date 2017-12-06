@@ -54,7 +54,7 @@
     <td></td>
     <td>Champagne</td>
     <td>Stunning diamond necklace</td>
-    <td></td>
+    <td>Red Satin Dress</td>
     <td>Path C</td>
   </tr>
   <tr>
