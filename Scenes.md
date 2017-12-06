@@ -275,10 +275,11 @@ maria
 You and Taylor enter the dining room along with a river of other people. Fortunately for the guests, placards have been placed on the table to accommodate everyone's seating, so you don't have to worry about finding a table. You just need to find your name. It is still a little chaotic and the buzzing noise of people scurrying to find their table inundates the room. Suddenly a loud noise is heard and it scares the whole room. You look around and everyone has the same perplexed look on their face. Do you go investigate what the [[loud noise was -> loud noise 2]] or do you [[stay in the room -> party split 2]]
 
 ## Loud noise 2
-Despite Taylor's request for you to please stay, you decide to go investigate because there is no way you are going to just sit around waiting to see what happens. 
+Despite Taylor's request for you to please stay, you decide to go investigate because there is no way you are going to just sit around waiting to see what happens.
 
 ## Party split 2
 
+Taylor looks pretty scared and concerned and asks you to stay, so you decide to stay in the room with Taylor. Many of the other guests have decided to stay in the room.
 ## 1 Hide
 
 ## 1 Locked in closet
