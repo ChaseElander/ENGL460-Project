@@ -52,7 +52,7 @@ You start trying to find some justification for what you just heard, but just fi
 
 ## Main Room
 
-You enter the ballroom through grande double doors and look around to find your date. Your eyes fall upon a beautiful woman in a slender, red satin gown who is laughing and drinking a glass of champagne with a man. She is wearing a gorgeous string of bright diamonds that are sparkling in the light. You kind of want to go talk to her. You keep searching though and see a man with a distinct Rolex watch talking in hushed tones to someone over by the staircase. Finally you see your date, Taylor, standing over by the food tables.
+You enter the ballroom through grande double doors and look around to find your date. Your eyes fall upon a beautiful woman in a slender, red satin gown who is laughing and drinking a glass of red wine with a man. She is wearing a gorgeous string of bright diamonds that are sparkling in the light. You kind of want to go talk to her. You keep searching though and see a man with a distinct Rolex watch talking in hushed tones to someone over by the staircase. Finally you see your date, Taylor, standing over by the food tables.
 
 You are slowly walking forward in the room when the man with the Rolex walks up onto the stairs and clinks a glass to grab everyone's focus:
 
@@ -178,7 +178,11 @@ Do you go investigate the [railing->2 Loose Railing] or do you go back to the be
 
 ## 2 Bedroom
 
+You go into the bedroom with a group of people, Taylor and the Host's Son and find it an absolute mess. It doesn't make sense that such a nice house would have such a disheveled room. You go into the [[bathroom->2 bathroom]] to see if there is anything in there.
+
 ## 2 Ballroom
+
+You go into the ballroom and see someone running out of the room towards the back of the house. You are scared. Do you go find everyone in the [[hallway->2 Hallway]] or do you just [[hide->2 Hide Under Table]]?
 
 ## 2 Loose Railing
 
@@ -194,7 +198,11 @@ This is just messed up. You walk throught the room and into the [hallway->2 Hall
 
 ## 2 bathroom
 
+You look into the bathroom and see towels on the ground, and little specks of what looks like blood on the sink. Did someone hurt themselves? Maybe they were just showering... you don't know for sure and decide to return to the [[hallway->2 Hallway]]
+
 ## 2 Hide under table
+
+You run over to the closest table that had hosted a mirage of Hors d'eurves earlier. You cover yourself behind the table cloth so no one can see you. You peak under the cloth and see someone sneaking back into the room and go to the hallway, perhaps into one of the bedrooms. Then you hear a [[loud crahsing sound->2 Loud Crash]] and flinch. The coast is clear so you go to investigate.
 
 ## 2 Hallway
 
@@ -203,6 +211,8 @@ You walk down the hallway peaking into the different rooms that you see. This is
 Which room do you go to?
 
 ## 2 loud crash
+
+You climb out from under the table, walk over to where the hallway is and look around, hearing the clinking of more glass hitting the groupnd and being stepped on. Your heart pounds and you are terrified. Where did everyoe else go? You [[investigate->2 Find Source]]
 
 ## 2 Piano Lounge
 
@@ -223,27 +233,39 @@ You think someone fell through the window!
 
 *Holy crap what is wrong with this party* you think to yourself
 
-Do you [hide->2 Shattering Hide] somewhere or do you go [look->2 Shattering Lawn] out the window?
+Do you [[hide->2 Shattering Hide]] somewhere or do you go [[look->2 Shattering Lawn]] out the window?
 
 ## 2 shattering hide
 
-You look around for a place to hide. Behind the couch? no. Your heat pounds inside you chest, your ears are ringing, your eyes beginning to blur. Do you scurry and dive under the [piano->2 Piano hide], brushing some sheet music underneath with you or do you [hide in the closet->2 Locked in Closet] that is over on the other side of the room?
+You look around for a place to hide. Behind the couch? no. Your heat pounds inside you chest, your ears are ringing, your eyes beginning to blur. Do you scurry and dive under the [[piano->2 Piano hide]], brushing some sheet music underneath with you or do you [[hide in the closet->2 Locked in Closet]] that is over on the other side of the room?
 
 ## 2 shattering lawn
 
-You run across the room and around the corner to where the window is. You don't see anybody except a still lifeless body on the ground. Fear grips your soul, you try to scream but feel like nothing is coming out of your throat. You don't know what to do so you stand motionless, frozen in fear until you hear someone [calling->2 Call Everyone Back Together] for people to come to the dining room.
+You run across the room and around the corner to where the window is. You don't see anybody except a still lifeless body on the ground. Fear grips your soul, you try to scream but feel like nothing is coming out of your throat. You don't know what to do so you stand motionless, frozen in fear until you hear someone [[calling->2 Call Everyone Back Together]] for people to come to the dining room.
 
 ## 2 piano hide
 
 You turn around on your stomach so you can see out into the room from your hiding spot. You look around, then down at the sheet music below you. It's dark but you think you can make out something on one of the papers. It looks like a footprint. Men's shoes size 10 maybe? And the faintest mark of a designer's name in the middle, but you can't read it.
 
+<<<<<<< HEAD
 Whose shoe made this mark? Suddenly something drips on your hand from the edge of the piano, you smell it... it smells like... bourbon? whiskey? Is there even a difference between the two? you can't tell. You decide to [wait->Wait] for someone else, maybe even Taylor to come find you.
+=======
+Whose shoe made this mark? Suddenly something drips on your hand from the edge of the piano, you smell it... it smells like... wine? You can't tell. You decide to [[wait->Wait]] for someone else, maybe even Taylor to come find you.
+>>>>>>> 78e1d304e6782f1bdf663d57c565b20f096c4253
 
 ## 2 Find source
 
+You walk slowly down the hallway, where did the sound come from? Do you go:
+
+[[down the hall->2 Crash Hall]]
+
+[[to the master bedroom->2 Crash Master Bedroom]]
+
 ## 2 crash master bedroom
 
-maria
+You go into the master bedroom and see a sculpture knocked over and shattered on the ground, a man in a black hood is standing over a dead body with a gash on the man's head.
+
+He turns and looks at you, lunges towards you. You [[fight->Killed in Bedroom]] 
 
 ## wait
 
@@ -251,17 +273,24 @@ maria
 
 ## Killed in Bedroom
 
-maria
+You weren't strong enough to overpower the strong and scary man and he kills you by bashing your head on the ground repeatedly.
 
 ## 2 crash hall
+
+You walk down the hallway and peer into the rooms, the sound was from here, you swear. Do you go into the [[Piano room->2 Crash Piano Lounge]] or to the [[big window->2 Check Window]] at the end of the hall to look outside?
 
 ## 2 check window
 
 maria
 
-## 2 crash piano
+## 2 Crash Piano Lounge
+
+You go into the Piano lounge and see that the Piano is out of place, turned over and on the ground. There is blood pooling around the side of it. You go look and see the dead body of a young business professional looking man crushed by the instrument. You scream.
+[[AAAAHHHHHHHH->2 Crash Body]]
 
 ## 2 crash body
+
+You hear people talking again somewhere past the hallway and turn to run towards the dining room again. You step on a broken glass on the ground from someone's drink. It smells like whiskey, but it's hard to focus when you are [[running in fear->2 Call Everyone Back Together]]
 
 ## 2 call everyone back together
 
@@ -317,6 +346,8 @@ more???
 # Left side
 
 ## Point Fingers
+
+Everyone is back in the dining room, 
 
 ## Question 1
 
