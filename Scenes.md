@@ -233,21 +233,21 @@ You think someone fell through the window!
 
 *Holy crap what is wrong with this party* you think to yourself
 
-Do you [hide->2 Shattering Hide] somewhere or do you go [look->2 Shattering Lawn] out the window?
+Do you [[hide->2 Shattering Hide]] somewhere or do you go [[look->2 Shattering Lawn]] out the window?
 
 ## 2 shattering hide
 
-You look around for a place to hide. Behind the couch? no. Your heat pounds inside you chest, your ears are ringing, your eyes beginning to blur. Do you scurry and dive under the [piano->2 Piano hide], brushing some sheet music underneath with you or do you [hide in the closet->2 Locked in Closet] that is over on the other side of the room?
+You look around for a place to hide. Behind the couch? no. Your heat pounds inside you chest, your ears are ringing, your eyes beginning to blur. Do you scurry and dive under the [[piano->2 Piano hide]], brushing some sheet music underneath with you or do you [[hide in the closet->2 Locked in Closet]] that is over on the other side of the room?
 
 ## 2 shattering lawn
 
-You run across the room and around the corner to where the window is. You don't see anybody except a still lifeless body on the ground. Fear grips your soul, you try to scream but feel like nothing is coming out of your throat. You don't know what to do so you stand motionless, frozen in fear until you hear someone [calling->2 Call Everyone Back Together] for people to come to the dining room.
+You run across the room and around the corner to where the window is. You don't see anybody except a still lifeless body on the ground. Fear grips your soul, you try to scream but feel like nothing is coming out of your throat. You don't know what to do so you stand motionless, frozen in fear until you hear someone [[calling->2 Call Everyone Back Together]] for people to come to the dining room.
 
 ## 2 piano hide
 
 You turn around on your stomach so you can see out into the room from your hiding spot. You look around, then down at the sheet music below you. It's dark but you think you can make out something on one of the papers. It looks like a footprint. Men's shoes size 10 maybe? And the faintest mark of a designer's name in the middle, but you can't read it.
 
-Whose shoe made this mark? Suddenly something drips on your hand from the edge of the piano, you smell it... it smells like... bourbon? whiskey? Is there even a difference betweent he two? you can't tell. You decide to [wait->Wait] for someone else, maybe even Taylor to come find you.
+Whose shoe made this mark? Suddenly something drips on your hand from the edge of the piano, you smell it... it smells like... wine? You can't tell. You decide to [[wait->Wait]] for someone else, maybe even Taylor to come find you.
 
 ## 2 Find source
 
