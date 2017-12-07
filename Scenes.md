@@ -52,7 +52,7 @@ You start trying to find some justification for what you just heard, but just fi
 
 ## Main Room
 
-You enter the ballroom through grande double doors and look around to find your date. Your eyes fall upon a beautiful woman in a slender, red satin gown who is laughing and drinking a glass of champagne with a man. She is wearing a gorgeous string of bright diamonds that are sparkling in the light. You kind of want to go talk to her. You keep searching though and see a man with a distinct Rolex watch talking in hushed tones to someone over by the staircase. Finally you see your date, Taylor, standing over by the food tables.
+You enter the ballroom through grande double doors and look around to find your date. Your eyes fall upon a beautiful woman in a slender, red satin gown who is laughing and drinking a glass of red wine with a man. She is wearing a gorgeous string of bright diamonds that are sparkling in the light. You kind of want to go talk to her. You keep searching though and see a man with a distinct Rolex watch talking in hushed tones to someone over by the staircase. Finally you see your date, Taylor, standing over by the food tables.
 
 You are slowly walking forward in the room when the man with the Rolex walks up onto the stairs and clinks a glass to grab everyone's focus:
 
