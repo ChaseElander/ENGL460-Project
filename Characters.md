@@ -53,8 +53,8 @@
     <td> The Ice Queen </td>
     <td></td>
     <td>Champagne</td>
-    <td>Stunning diamond necklace</td>
-    <td>Red Satin Dress</td>
+    <td></td>
+    <td></td>
     <td>Path C</td>
   </tr>
   <tr>
@@ -78,10 +78,10 @@
   <tr>
     <td> Darlene </td>
     <td> The Seductress </td>
-    <td></td>
+    <td>Stunning diamon Necklace</td>
     <td>Red Wine</td>
     <td>Mink Fur Coat</td>
-    <td></td>
+    <td>Red Satin Dress</td>
     <td>Path D</td>
   </tr>
   <tr>
