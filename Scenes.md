@@ -237,7 +237,7 @@ You run across the room and around the corner to where the window is. You don't 
 
 You turn around on your stomach so you can see out into the room from your hiding spot. You look around, then down at the sheet music below you. It's dark but you think you can make out something on one of the papers. It looks like a footprint. Men's shoes size 10 maybe? And the faintest mark of a designer's name in the middle, but you can't read it.
 
-Whose shoe made this mark? Suddenly something drips on your hand from the edge of the piano, you smell it... it smells like... bourbon? whiskey? Is there even a difference betweent he two? you can't tell. You decide to [wait->Wait] for someone else, maybe even Taylor to come find you.
+Whose shoe made this mark? Suddenly something drips on your hand from the edge of the piano, you smell it... it smells like... bourbon? whiskey? Is there even a difference between the two? you can't tell. You decide to [wait->Wait] for someone else, maybe even Taylor to come find you.
 
 ## 2 Find source
 
@@ -275,7 +275,7 @@ maria
 You and Taylor enter the dining room along with a river of other people. Fortunately for the guests, placards have been placed on the table to accommodate everyone's seating, so you don't have to worry about finding a table. You just need to find your name. It is still a little chaotic and the buzzing noise of people scurrying to find their table inundates the room. Suddenly a loud noise is heard and it scares the whole room. You look around and everyone has the same perplexed look on their face. Do you go investigate what the [[loud noise was -> loud noise 2]] or do you [[stay in the room -> party split 2]]
 
 ## Loud noise 2
-Despite Taylor's request for you to please stay, you decide to go investigate because there is no way you are going to just sit around waiting to see what happens. You slip out the dining room and immediately an open door catches your eye. You go inside and 
+Despite Taylor's request for you to please stay, you decide to go investigate because there is no way you are going to just sit around waiting to see what happens. You slip out the dining room and immediately an open door catches your eye. You go inside and
 
 ## Party split 2
 
