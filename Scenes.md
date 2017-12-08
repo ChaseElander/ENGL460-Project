@@ -304,13 +304,13 @@ maria
 You and Taylor enter the dining room along with a river of other people. Fortunately for the guests, there are place cards on the tables, so you just need to find your name. It's a little chaotic and the buzzing noise of people scurrying to find their table inundates the room. Suddenly a loud noise is heard and it scares the whole room. You look around and everyone has the same perplexed look on their face. Do you go investigate what the [[loud noise was -> loud noise 2]] or do you [[stay in the room -> party split 2]]
 
 ## Loud noise 2
-Despite Taylor's request for you to stay, you decide to go investigate because there is no way you are going to just sit around waiting to see what happens. You slip out the dining room, into the hallway and immediately an open door catches your eye. You go inside and
+Despite Taylor's request for you to stay, you decide to go investigate because there is no way you are going to just sit around waiting to see what happens. You slip out the dining room, into the hallway and immediately an open door catches your eye. You slowly creep inside when suddenly you hear another loud noise except this time closer and more distinctly. The noise is so distinct that you realize that it was  clearly a gun. You are terrified. All of a sudden this just became too real. You look around and see a [[closet -> 1 hide]] and decide to hide.
 
 ## Party split 2
 
 Taylor looks frightened and concerned and asks you to stay, so you stay. Many of the other guests have decided to stay in the room as well. People start huddling around a man. You move towards them and see that it is James. He is talking to the crowd.
 
-James: Everyone please remain calm. If we stick together we can figure out what the noise was. We should split into three groups. We need people to cover the west wing, the north side, and the south side.
+James: Everyone please remain calm. If we stick together we can figure out what the noise was. We should split into three groups. We need people to cover the [[west wing -> 1 Bedroom]], the [[north side -> 1 Balcony]], and the [[south side -> 1 Ballroom]].
 
 Which group do you join?
 
