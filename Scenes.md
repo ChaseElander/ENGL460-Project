@@ -78,7 +78,7 @@ What do you do?
 
 ## Speak to Seductress
 
-"I'm going to go talk to that woman over there. she looks like she knows a lot of the people here, so maybe she can tell us a little about what this party is!", you say to Taylor before you walk over to the Redheaded woman.
+"I'm going to go talk to that woman over there. She looks like she knows a lot of the people here, so maybe she can tell us a little about what this party is!", you say to Taylor before you walk over to the Redheaded woman.
 
 You walk up to her and her companion, and say hello.
 
@@ -126,7 +126,7 @@ It seems like you won't have any luck getting food here so you start to move alo
 
 ## Dining Room
 
-You return to the dining room, find Taylor, and take your drink from his hand. Just as you begin to get into conversation, a bell rings and some unseen voice announces that dinner is about to be served and for everyone to take their seats at the [table->Call to Dinner 2].
+You return to the dining room, find Taylor, and take your drink from their hand. Just as you begin to get into conversation, a bell rings and some unseen voice announces that dinner is about to be served and for everyone to take their seats at the [table->Call to Dinner 2].
 
 ## Help servant
 
@@ -142,13 +142,13 @@ You return to the dining room, find Taylor, and take your drink from his hand. J
 
 you: "So the guy has a temper huh?"
 
-him: "My dad? Of course he does, he has nothing else to do with his time, so he finds ways to entertain himself when things aren't going absloutely perfectly."
+him: "My dad? Of course he does, he has nothing else to do with his time, so he finds ways to entertain himself when things aren't going absolutely perfectly."
 
 You notice a bruise on the son's arm and think about how big Wellington's temper must really be. Poor kid. You decide not to bother him anymore and move on to the [Dining room].
 
 ## Listen to Live Music
 
-You aren't much of a dancer, or rather just don't want to embarass yourself in front of all of these people so you hang to the side with Taylor and just enjoy the music, engaging in small talk. A song ends and while you expect another song to begin, the lead singer says that it is time for dinner and everyone needs to take their [seats->Call To dinner] at the table in the dining room.
+You aren't much of a dancer, or rather just don't want to embarrass yourself in front of all of these people so you hang to the side with Taylor and just enjoy the music, engaging in small talk. A song ends and while you expect another song to begin, the lead singer says that it is time for dinner and everyone needs to take their [seats->Call To dinner] at the table in the dining room.
 
 # _________________________ Act 2 Begins
 
@@ -168,7 +168,7 @@ You walk out of the dining room and look around to decide which way to go. You w
 
 ## Party splits in 3 parts
 
-Everyone looks aroud at each other. No one can decide where the noise came from and whether it is important. Some people just want to stay and eat, some want to go out on the [balcony->2 Balcony], some to the [West side->2 Bedroom] of the house, and others to the [South->2 Ballroom]. Where do you go?
+Everyone looks around at each other. No one can decide where the noise came from and whether it is important. Some people just want to stay and eat, some want to go out on the [balcony->2 Balcony], some to the [West side->2 Bedroom] of the house, and others to the [South->2 Ballroom]. Where do you go?
 
 ## 2 Balcony
 
@@ -186,7 +186,7 @@ You go into the ballroom and see someone running out of the room towards the bac
 
 ## 2 Loose Railing
 
-You walk over to the railing, and peer over. There's something down there... what is it? Is it... a body?  Suddenly a squirrel jumps off the roof and lands right behind you making you jump, lose your footing and then fall over the edge.
+You walk over to the railing, and peer over. There's something down there... what is it? Is it... a body?  Suddenly a squirrel jumps off the roof and lands right behind you making you jump. You lose your footing and then fall over the edge.
 
 You are killed instantly.
 
@@ -194,7 +194,7 @@ You are killed instantly.
 
 You turn around and walk back inside. "Something is going on in this place and I don't like it," you say to yourself.
 
-This is just messed up. You walk throught the room and into the [hallway->2 Hallway].
+This is just messed up. You walk through the room and into the [hallway->2 Hallway].
 
 ## 2 bathroom
 
@@ -202,7 +202,7 @@ You look into the bathroom and see towels on the ground, and little specks of wh
 
 ## 2 Hide under table
 
-You run over to the closest table that had hosted a mirage of Hors d'eurves earlier. You cover yourself behind the table cloth so no one can see you. You peak under the cloth and see someone sneaking back into the room and go to the hallway, perhaps into one of the bedrooms. Then you hear a [[loud crahsing sound->2 Loud Crash]] and flinch. The coast is clear so you go to investigate.
+You run over to the closest table that had hosted a mirage of Hors d'eurves earlier. You cover yourself behind the table cloth so no one can see you. You peak under the cloth and see someone sneaking back into the room and go to the hallway, perhaps into one of the bedrooms. Then you hear a [[loud crashing sound->2 Loud Crash]] and flinch. The coast is clear so you go to investigate.
 
 ## 2 Hallway
 
@@ -212,7 +212,7 @@ Which room do you go to?
 
 ## 2 loud crash
 
-You climb out from under the table, walk over to where the hallway is and look around, hearing the clinking of more glass hitting the groupnd and being stepped on. Your heart pounds and you are terrified. Where did everyoe else go? You [[investigate->2 Find Source]]
+You climb out from under the table, walk over to where the hallway is and look around, hearing the clinking of more glass hitting the ground and being stepped on. Your heart pounds and you are terrified. Where did everyone else go? You [[investigate->2 Find Source]]
 
 ## 2 Piano Lounge
 
@@ -237,7 +237,7 @@ Do you [[hide->2 Shattering Hide]] somewhere or do you go [[look->2 Shattering L
 
 ## 2 shattering hide
 
-You look around for a place to hide. Behind the couch? no. Your heat pounds inside you chest, your ears are ringing, your eyes beginning to blur. Do you scurry and dive under the [[piano->2 Piano hide]], brushing some sheet music underneath with you or do you [[hide in the closet->2 Locked in Closet]] that is over on the other side of the room?
+You look around for a place to hide. Behind the couch? no. Your heart pounds inside you chest, your ears are ringing, your eyes beginning to blur. Do you scurry and dive under the [[piano->2 Piano hide]], brushing some sheet music underneath with you or do you [[hide in the closet->2 Locked in Closet]] that is over on the other side of the room?
 
 ## 2 shattering lawn
 
@@ -265,7 +265,7 @@ You walk slowly down the hallway, where did the sound come from? Do you go:
 
 You go into the master bedroom and see a sculpture knocked over and shattered on the ground, a man in a black hood is standing over a dead body with a gash on the man's head.
 
-He turns and looks at you, lunges towards you. You [[fight->Killed in Bedroom]] 
+He turns and looks at you, lunges towards you. You [[fight->Killed in Bedroom]]
 
 ## wait
 
@@ -301,14 +301,19 @@ maria
 # right side
 
 ## call to dinner 2
-You and Taylor enter the dining room along with a river of other people. Fortunately for the guests, placards have been placed on the table to accommodate everyone's seating, so you don't have to worry about finding a table. You just need to find your name. It is still a little chaotic and the buzzing noise of people scurrying to find their table inundates the room. Suddenly a loud noise is heard and it scares the whole room. You look around and everyone has the same perplexed look on their face. Do you go investigate what the [[loud noise was -> loud noise 2]] or do you [[stay in the room -> party split 2]]
+You and Taylor enter the dining room along with a river of other people. Fortunately for the guests, there are place cards on the tables, so you just need to find your name. It's a little chaotic and the buzzing noise of people scurrying to find their table inundates the room. Suddenly a loud noise is heard and it scares the whole room. You look around and everyone has the same perplexed look on their face. Do you go investigate what the [[loud noise was -> loud noise 2]] or do you [[stay in the room -> party split 2]]
 
 ## Loud noise 2
-Despite Taylor's request for you to please stay, you decide to go investigate because there is no way you are going to just sit around waiting to see what happens. You slip out the dining room and immediately an open door catches your eye. You go inside and
+Despite Taylor's request for you to stay, you decide to go investigate because there is no way you are going to just sit around waiting to see what happens. You slip out the dining room, into the hallway and immediately an open door catches your eye. You go inside and
 
 ## Party split 2
 
-Taylor looks pretty scared and concerned and asks you to stay, so you decide to stay in the room with Taylor. Many of the other guests have decided to stay in the room.
+Taylor looks frightened and concerned and asks you to stay, so you stay. Many of the other guests have decided to stay in the room as well. People start huddling around a man. You move towards them and see that it is James. He is talking to the crowd.
+
+James: Everyone please remain calm. If we stick together we can figure out what the noise was. We should split into three groups. We need people to cover the west wing, the north side, and the south side.
+
+Which group do you join?
+
 ## 1 Hide
 
 ## 1 Locked in closet
@@ -347,7 +352,7 @@ more???
 
 ## Point Fingers
 
-Everyone is back in the dining room, 
+Everyone is back in the dining room,
 
 ## Question 1
 
