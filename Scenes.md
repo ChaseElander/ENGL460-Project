@@ -316,11 +316,10 @@ Which group do you join?
 
 ## 1 Hide
 
+You rush over to the closet door, and close the door behind you when you get inside. It's pitch black but out of the corner of your eye you see a shiny piece of garment. You begin to approach it...
+
+A shadow crosses in front of the door and stops. You hear a deep sinister laugh and then the click of a lock. You look down, grab the door handle and try to turn it but it doesn't [[budge -> 1 Locked in closet]].
 ## 1 Locked in closet
-
-You rush over to the closet door, and close the door behind you when you get inside.
-
-A shadow crosses in front of the door and stops. You hear a deep sinister laugh and then the click of a lock. You look down, grab the door handle and try to turn it but it doesn't budge.
 
 You are locked in! You bang on the door but no one hears you, no one ever hears you, no one comes back for you. You die in a few days from starvation.
 
