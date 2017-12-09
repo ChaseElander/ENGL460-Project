@@ -247,11 +247,7 @@ You run across the room and around the corner to where the window is. You don't 
 
 You turn around on your stomach so you can see out into the room from your hiding spot. You look around, then down at the sheet music below you. It's dark but you think you can make out something on one of the papers. It looks like a footprint. Men's shoes size 10 maybe? And the faintest mark of a designer's name in the middle, but you can't read it.
 
-<<<<<<< HEAD
-Whose shoe made this mark? Suddenly something drips on your hand from the edge of the piano, you smell it... it smells like... bourbon? whiskey? Is there even a difference between the two? you can't tell. You decide to [wait->Wait] for someone else, maybe even Taylor to come find you.
-=======
 Whose shoe made this mark? Suddenly something drips on your hand from the edge of the piano, you smell it... it smells like... wine? You can't tell. You decide to [[wait->Wait]] for someone else, maybe even Taylor to come find you.
->>>>>>> 78e1d304e6782f1bdf663d57c565b20f096c4253
 
 ## 2 Find source
 
