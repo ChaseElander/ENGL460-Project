@@ -334,7 +334,7 @@ You decide to join the group going to the west wing. The group approaches an ope
 
 ## 1 Ballroom
 
-Although you really wanted to go out and investigate, Taylor pleads for you to stay. 
+Although you really wanted to go out and investigate, Taylor pleads for you to stay. You notice that James has decided to stay as well. With everything going on, Taylor informs you that they really need to go pee. As Taylor leaves, you use this opportunity to step out into the [[hallway -> 1 Hallway]].
 
 ## 1 loose railing
 
@@ -348,7 +348,7 @@ As everyone starts heading out, you stay behind and wander into the room. It's a
 
 ## 1 Hallway
 
-You head out of the bedroom into the hallway, but no one is there anymore. You look right then look left and you realize that you don't remember what side you cam from. What do you do?
+You head out into the hallway, but no one is there anymore. You look right then look left and you realize that you don't know which way leads where. What do you do?
 
 Go [[left -> 1 Piano Lounge]].
 Go [[right -> 1 Master Bedroom]].
