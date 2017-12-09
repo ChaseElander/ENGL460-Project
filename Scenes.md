@@ -355,7 +355,11 @@ Go [[right -> 1 Master Bedroom]].
 
 ## 1 master bedroom
 
+You decide to go right and start walking until you reach another room. You open the door and discover that it is another bedroom except this one is much larger and lavish than the last one, not to mention much tidier. On the wall is an enormous painting of Wellington, so you're guessing this is his room. Talk about conceited huh? You start poking around and on the night stand you see a stack of papers. You can make out the big, black, bold letters EXPULSION, when suddenly someone slams the door. You jump up and turn around...
+
 ## 1 piano lounge
+
+You decide to go left and start walking until you reach the piano lounge.
 
 ## 1 Scared
 
