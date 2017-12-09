@@ -310,7 +310,7 @@ Despite Taylor's request for you to stay, you decide to go investigate because t
 
 Taylor looks frightened and concerned and asks you to stay, so you stay. Many of the other guests have decided to stay in the room as well. People start huddling around a man. You move towards them and see that it is James. He is talking to the crowd.
 
-James: Everyone please remain calm. If we stick together we can figure out what the noise was. We should split into three groups. We need people to cover the [[west wing -> 1 Bedroom]], the [[north side -> 1 Balcony]], and the [[south side -> 1 Ballroom]].
+James: Everyone please remain calm. If we stick together we can figure out what the noise was. We should split into three groups. We need people to cover the [[west wing -> 1 Bedroom]], the [[north side -> 1 Balcony]], and we also need people to stay [[here -> 1 Ballroom]].
 
 Which group do you join?
 
@@ -334,7 +334,7 @@ You decide to join the group going to the west wing. The group approaches an ope
 
 ## 1 Ballroom
 
-You decide to join the group going to the south side of the mansion.
+Although you really wanted to go out and investigate, Taylor pleads for you to stay. 
 
 ## 1 loose railing
 
