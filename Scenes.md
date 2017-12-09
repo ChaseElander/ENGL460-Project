@@ -334,7 +334,7 @@ You decide to join the group going to the west wing. The group approaches an ope
 
 ## 1 Ballroom
 
-Although you really wanted to go out and investigate, Taylor pleads for you to stay. You notice that James has decided to stay as well. With everything going on, Taylor informs you that they really need to go pee. As Taylor leaves, you use this opportunity to step out into the [[hallway -> 1 Hallway]].
+Although you really wanted to go out and investigate, Taylor pleads for you to stay. You notice that James has decided to stay as well. At the corner of the room you see Wellington's son; he's sipping on a Shirley temple. Taylor interupts your thoughts to inform you that they really need to go pee. As Taylor leaves, you use this opportunity to step out into the [[hallway -> 1 Hallway]].
 
 ## 1 loose railing
 
