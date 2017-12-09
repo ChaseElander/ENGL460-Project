@@ -357,6 +357,21 @@ Go [[right -> 1 Master Bedroom]].
 
 ## 1 piano lounge
 
+## 1 Scared
+
+## 1 Scared Lawn
+
+## 1 Dropping Bodies
+
+## 1 Scared hide
+
+## 1 Stop Hiding
+
+## 1 Run lawn
+
+## 1 Run to Small Office
+
+
 more???
 
 # ----------- Accusation stages -------------
