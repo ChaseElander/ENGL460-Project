@@ -326,9 +326,15 @@ You are locked in! You bang on the door but no one hears you, no one ever hears 
 
 ## 1 Balcony
 
+You decide to join the group going to the north side of the mansion.
+
 ## 1 Bedroom
 
+You decide to join the group going to the west wing. The group approaches an open door which is actually a bedroom. The place is disheveled and it appears that something went on in here. Upon not finding anyone, the group gets ready to leave but you notice another door leading to another [[room -> 1 bathroom]] inside the bedroom.
+
 ## 1 Ballroom
+
+You decide to join the group going to the south side of the mansion.
 
 ## 1 loose railing
 
@@ -338,7 +344,14 @@ You are locked in! You bang on the door but no one hears you, no one ever hears 
 
 ## 1 bathroom
 
+As everyone starts heading out, you stay behind and wander into the room. It's a bathroom. Like the bedroom, the place is a mess. You are about to leave when you notice a red stain on the sink. It appears to be blood. Perhaps somebody cut themselves while shaving? You decide to [[head out -> 1 hallway]].
+
 ## 1 Hallway
+
+You head out of the bedroom into the hallway, but no one is there anymore. You look right then look left and you realize that you don't remember what side you cam from. What do you do?
+
+Go [[left -> 1 Piano Lounge]].
+Go [[right -> 1 Master Bedroom]].
 
 ## 1 master bedroom
 
