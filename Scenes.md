@@ -322,7 +322,7 @@ You are locked in! You bang on the door but no one hears you, no one ever hears 
 
 ## 1 Balcony
 
-You decide to join the group going to the north side of the mansion.
+You decide to join the group going to the north side of the mansion. As you are walking through the hallway, a gust of air hits your torso and you notice that the balcony door is open. However, you clearly remember this door being previously closed. Do you continue walking with the [[group -> 1 Back to Bedroom]] or do you go [[investigate -> 1 Loose Railing]]?
 
 ## 1 Bedroom
 
@@ -330,7 +330,7 @@ You decide to join the group going to the west wing. The group approaches an ope
 
 ## 1 Ballroom
 
-Although you really wanted to go out and investigate, Taylor pleads for you to stay. You notice that James has decided to stay as well. At the corner of the room you see Wellington's son; he's sipping on a Shirley temple. Taylor interupts your thoughts to inform you that they really need to go pee. As Taylor leaves, you use this opportunity to step out into the [[hallway -> 1 Hallway]].
+Although you really wanted to go out and investigate, Taylor pleads for you to stay. You notice that James has decided to stay as well. At the corner of the room you see Wellington's son; he's sipping on a Shirley temple. Taylor interrupts your thoughts to inform you that they really need to go pee. As Taylor leaves, you use this opportunity to step out into the [[hallway -> 1 Hallway]].
 
 ## 1 loose railing
 
