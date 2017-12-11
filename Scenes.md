@@ -361,13 +361,19 @@ You decide to go right and start walking until you reach another room. You open 
 
 ## 1 piano lounge
 
-You decide to go left and start walking until you reach the piano lounge.
+You decide to go left and start walking until you reach the piano lounge. There are music sheets scattered all over the floor. The room is a little dim and you start searching for a light switch. You walk around and step on something bulky. You look down and kick some sheets around and to your horror it's an arm! Without a second thought you run out of the room!
 
 ## 1 Scared
 
+You are scared for you life! You are pretty sure that arm was attached to a dead body. You can't stay out here in the hallway. Do you go [[hide -> 1 Scared Hide]] or do you run out to the [[lawn -> 1 Scared Lawn]] in hopes of finding someone else?
+
 ## 1 Scared Lawn
 
+You realize that you need to get out of this house. So you run out onto the front lawn. You hear a shriek coming from [[above -> Dropping Bodies]].
+
 ## 1 Dropping Bodies
+
+You look up and a massive body comes tumbling down. The dead body comes crashing down and crushes you to death.
 
 ## 1 Scared hide
 
