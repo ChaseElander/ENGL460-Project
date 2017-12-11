@@ -377,11 +377,19 @@ You look up and a massive body comes tumbling down. The dead body comes crashing
 
 ## 1 Scared hide
 
+You find a small closet and decide to hide in there. A few minutes pass. Do you [[continue hiding -> 1 Scared Hide]] or [[stop hiding -> 1 Stop Hiding]]?
+
 ## 1 Stop Hiding
+
+You decide that enough time has passed by and you need to do something. Do you stay inside and look for [[another room -> 1 Run to Small Office]] or go [[outside -> 1 Run Lawn]]?
 
 ## 1 Run lawn
 
+You realize that you need to get out of this house. So you run out onto the front lawn.
+
 ## 1 Run to Small Office
+
+You realize that you should probably stay inside and look for people. You start walking and you pass by a familiar room. This was the small office where you has first encountered Wellington. You decide to go inside.
 
 
 more???
