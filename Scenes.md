@@ -334,6 +334,8 @@ Although you really wanted to go out and investigate, Taylor pleads for you to s
 
 ## 1 loose railing
 
+You step into the balcony and immediately notice that the railing is loose. It looks like someone aggressively hit it. Perhaps that was what the noise was. You step foward to [[examine the railing -> fall to your death]] more closely...
+
 ## fall to your death
 
 ## 1 Back to bedroom
