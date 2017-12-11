@@ -225,7 +225,7 @@ Wait... you hear heavy breathing... someone is in here.... [CRASH!!!->2 Shatteri
 
 ## 2 master bedroom
 
-maria
+You remember passing through the piano room earlier and everything looked normal so you decide to go into the bedroom because you have never been in there. Above the bed, is a large painting of Bush Wellington so you conclude that this is his room. It's a bit messier than you had expected. There are some papers on his nightstand which you start approaching until you hear footsteps. You panic and look up but are relieved to see that it's just [[Taylor -> wait]].
 
 ## 2 shattering
 
@@ -265,7 +265,7 @@ He turns and looks at you, lunges towards you. You [[fight->Killed in Bedroom]]
 
 ## wait
 
-maria
+Taylor smiles and is relieved to see you. Taylor hugs you and then you hear someone calling everyone back together. It sounds like James's voice. Taylor grabs your hand and both of you walk out and towards the [[ballroom -> 2 Call Everyone Back Together]].
 
 ## Killed in Bedroom
 
@@ -277,7 +277,7 @@ You walk down the hallway and peer into the rooms, the sound was from here, you 
 
 ## 2 check window
 
-maria
+You decide to peer out through the window because you are certain it was closed before. You lean on out and are horrified to see a motionless body. You are about to scream out at them when someone pushes you forward and you topple out the window into your death.
 
 ## 2 Crash Piano Lounge
 
@@ -290,7 +290,7 @@ You hear people talking again somewhere past the hallway and turn to run towards
 
 ## 2 call everyone back together
 
-maria
+You enter the ballroom and are surprised to see that it was not James who was calling but the man in the small office you had heard earlier speaking to Wellington. In fact you look around and James is nowhere to be found. You don't see Darlene either so you figure that they have just slipped away
 
 
 
