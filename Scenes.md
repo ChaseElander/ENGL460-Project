@@ -342,6 +342,8 @@ You touch the railing to discover that it is actually looser than it appeared. H
 
 ## 1 Back to bedroom
 
+You decide that staying with the group is the best course of action. Upon not finding anything, you turn around and go to the west wing. The group approaches an open door and enters. It is a bedroom. The place is disheveled and it appears that something went on in here. Upon not finding anyone, the group gets ready to [[leave -> 1 Hallway]].
+
 ## 1 bathroom
 
 As everyone starts heading out, you stay behind and wander into the room. It's a bathroom. Like the bedroom, the place is a mess. You are about to leave when you notice a red stain on the sink. It appears to be blood. Perhaps somebody cut themselves while shaving? You decide to [[head out -> 1 hallway]].
